@@ -40,6 +40,8 @@
 
 ## 社区：
 
+ 名称 | 简介
+ ---- | ----
 [eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单，做最棒的开发者社区
 [APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
 
