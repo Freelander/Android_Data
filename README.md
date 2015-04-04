@@ -17,7 +17,7 @@
 
 
 ## 开发环境/插件：
-（附上：下载[地址](http://www.aplesson.com/?p=675),不需翻墙）
+（附上：下载[地址](http://www.aplesson.com/?p=675)，不需翻墙）
 
  环境名称 | 环境简述
  -------- | --------
@@ -31,14 +31,17 @@
  -------- | --------
  [Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(须翻墙)
  [胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作，发起Google Android官方培训课程中文版翻译，这课程是学习Android应用开发的绝佳资料
- [Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术，他是开源库项目收集达人，你想要的开源库[上面](https://github.com/Trinea)，并且发起 Android 开源项目源码解析，在使用开源库的同时也可以知道其中原理，大家可以去关注一下，[地址](https://github.com/android-cn/android-open-project-analysis)
+ [Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术，他是开源库项目收集达人，你想要的开源库[上面](https://github.com/Trinea)，并且发起 Android 开源项目源码解析，在使用开源库的同时也可以知道其中原理，大家可以去关注一下，[地址](http://www.codekk.com/)
  [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神，人人都称"郭神"，是第一行代码的作者，博主在 CSDN 上所写的文章都非常值得学习
  [代码家](http://blog.daimajia.com/) | 90后Android大神，称作库达人，博主收集了很多Android开源库，博主自己也做了很多开源库，非常值得学习
  [stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管，博主分享了他学习Android的经验，写了一篇[ Android 学习之路]得到非常多人赞同，里面还有很多好的文章非常适合新手看
+ [light_sky](http://www.lightskystreet.com/) | Android开发工程师，目前在北京工作。Google big fan，热爱开源，热爱分享，活跃于GitHub、G+、Twitter，捕捉Android最新资讯和技术，ViewPagerIndicator 开源项目分析者
  [更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息，大家可以去看看
 
 ## 社区：
 
+[eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单，做最棒的开发者社区
+[APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
 
 
 ## 开源项目学习：
@@ -47,7 +50,10 @@
 
 ## Awesome 系列：
 
-
+- [awesome android(1)](https://github.com/snowdream/awesome-android)
+- [awesome_android(2)](https://github.com/JStumpp/awesome-android)
+- [awesome_android_UI](https://github.com/wasabeef/awesome-android-ui)
+- [awesome_android_libraries](https://github.com/wasabeef/awesome-android-libraries)
 
 ## Material Design 设计：
 
