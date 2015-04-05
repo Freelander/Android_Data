@@ -72,7 +72,10 @@
 
 ## 开源库收集：
 
-
+- [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
+- [Android Arsenal ](http://android-arsenal.com/)(有趣开源库项目收集网站，网站经常更新)
+- [Android开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
+- [Android开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时，也应该了解当中的原理)
 
 ## 设计模式：
 
