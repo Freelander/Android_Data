@@ -29,7 +29,7 @@
 
  博客地址 | 博主信息
  -------- | --------
-[Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(须翻墙)
+[Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(需翻墙)
  [胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作，发起Google Android官方培训课程中文版翻译，这课程是学习Android应用开发的绝佳资料
  [Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术，他是开源库项目收集达人，你想要的开源库[上面](https://github.com/Trinea)都有，并且发起 Android 开源项目源码解析，在使用开源库的同时也可以知道其中原理，大家可以去关注一下，[地址](http://www.codekk.com/)
  [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神，人人都称"郭神"，是第一行代码的作者，博主在 CSDN 上所写的文章都非常值得学习
@@ -73,12 +73,15 @@
 ## 开源库收集：
 
 - [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
-- [Android Arsenal ](http://android-arsenal.com/)(有趣开源库项目收集网站，网站经常更新)
-- [Android开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
-- [Android开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时，也应该了解当中的原理)
+- [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站，网站经常更新)
+- [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
+- [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时，也应该了解当中的原理)
 
 ## 设计模式：
 
+- [java-design-patterns](https://github.com/iluwatar/java-design-patterns#model-view-presenter)
+- [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
+- [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
 
 ## 动画：
@@ -95,14 +98,21 @@
 
 ## 文档：
 
-
+- [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
 
 ## 其它：
 
-
+- [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+- [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
+- [一个滑动图像加载的缓存库](https://github.com/bumptech/glide)
+- [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
+- [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 
 ## 知乎上的讨论：
 
+- [有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
+- [GitHub 上都有哪些值得关注学习的 Android项目？](http://www.zhihu.com/question/23804819)
+- [2015 年移动设备界面设计有哪些趋势？](http://www.zhihu.com/question/28841081)
 
 
 
