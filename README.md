@@ -48,7 +48,23 @@
 
 ## 开源项目学习：
 
-
+ 项目名称 | 项目简介
+ -------- | --------
+[Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计
+[Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器
+[github客户端](https://github.com/github/android) | 开源者 github 团队，支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织、好友和资料库的更新信息，还提供了一个用于快速访问你创建、监控以及发布 issue 面板，可查看并将问题加到收藏夹
+[Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端，国内很少见的精彩而且开源的 APP，获得豌豆荚110期设计奖
+[9GAG stormzhang](https://github.com/stormzhang/9GAG) | 开发者是stormzhang的博主，这个开源项目教你使用Studio,Gradle以及一些流行的开源库快速开发一个不错的Android客户端
+[MIUI 便签](https://github.com/MiCode/Notes) | MiCode 便签是小米便签的社区开源版，由 MIUI 团队（ww.miui.com）发起并贡献第一批代码，遵循 NOTICE 文件所描述的开源协议
+[贝壳单词](https://github.com/drakeet/Seashell-app) | 开发者是许晓峰(Drakeet)，获得豌豆荚设计奖，这个是初期版本，新版没有开源，但是在博主的博客当中将一些新版的内容都剥离出来写成了文章
+[Muzei Live Wallpaper](https://github.com/romannurik/muzei) | 开发者是 Ian Lake ，就职于 Google，这款是定时更换桌面精美壁纸 App
+[四次元-新浪微博客户端](https://github.com/qii/weiciyuan) | 一个仿新浪微博客户端 App，基本都含有新浪微博的功能，开源团队写了一份 wiki 文档，可以去学习一下该 App 是如何实现的
+[知乎专栏](https://github.com/bxbxbai/ZhuanLan) | 开发者是白瓦力，项目结构简单明了，很适合新手去学习如何搭建一个 App 结构，熟悉开发一个完整 App 的流程
+[eoe 客户端](https://github.com/eoecn/android-app) | eoe 社区Android客户端
+[oschina](http://git.oschina.net/oschina/android-app) | 开源中国社区 Android 客户端，此开源的是 v1 版本，v2 版本将在2015年年中开源
+[v2ex](https://github.com/kyze8439690/v2ex-daily-android) | v2ex Android 客户端
+[Tweet Lanes](https://github.com/chrislacy/TweetLanes) | 功能比较完整的 Twitter 客户端
+[Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
 
 ## Awesome 系列：
 
