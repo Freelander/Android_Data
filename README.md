@@ -100,18 +100,6 @@
 - [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
 
-## 动画：
-
-
-
-## 框架：
-
-
-
-## 文章：
-
-
-
 ## 文档：
 
 - [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
