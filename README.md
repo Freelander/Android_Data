@@ -17,7 +17,7 @@
 
 
 ## 开发环境/插件：
-（附上：下载[地址](http://www.aplesson.com/?p=675)，不需翻墙）
+（附上：下载[地址](https://github.com/inferjay/AndroidDevTools)，不需翻墙）
 
  环境名称 | 环境简述
  -------- | --------
@@ -54,17 +54,31 @@
 [Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器
 [github客户端](https://github.com/github/android) | 开源者 github 团队，支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织、好友和资料库的更新信息，还提供了一个用于快速访问你创建、监控以及发布 issue 面板，可查看并将问题加到收藏夹
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端，国内很少见的精彩而且开源的 APP，获得豌豆荚110期设计奖
+[EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家，EverMemo 是一款让你快速记录与分享灵感的随身便签，极简的界面与卡片式布局，让你记录与查找便签更有效率
 [9GAG stormzhang](https://github.com/stormzhang/9GAG) | 开发者是stormzhang的博主，这个开源项目教你使用Studio,Gradle以及一些流行的开源库快速开发一个不错的Android客户端
 [MIUI 便签](https://github.com/MiCode/Notes) | MiCode 便签是小米便签的社区开源版，由 MIUI 团队（ww.miui.com）发起并贡献第一批代码，遵循 NOTICE 文件所描述的开源协议
 [贝壳单词](https://github.com/drakeet/Seashell-app) | 开发者是许晓峰(Drakeet)，获得豌豆荚设计奖，这个是初期版本，新版没有开源，但是在博主的博客当中将一些新版的内容都剥离出来写成了文章
 [Muzei Live Wallpaper](https://github.com/romannurik/muzei) | 开发者是 Ian Lake ，就职于 Google，这款是定时更换桌面精美壁纸 App
 [四次元-新浪微博客户端](https://github.com/qii/weiciyuan) | 一个仿新浪微博客户端 App，基本都含有新浪微博的功能，开源团队写了一份 wiki 文档，可以去学习一下该 App 是如何实现的
-[知乎专栏](https://github.com/bxbxbai/ZhuanLan) | 开发者是白瓦力，项目结构简单明了，很适合新手去学习如何搭建一个 App 结构，熟悉开发一个完整 App 的流程
+[知乎专栏](https://github.com/bxbxbai/ZhuanLan) | 开发者是白瓦力，项目结构清晰，代码分包合理，很棒。很适合新手去学习如何搭建一个 App 结构，熟悉开发一个完整 App 的流程
 [eoe 客户端](https://github.com/eoecn/android-app) | eoe 社区Android客户端
 [oschina](http://git.oschina.net/oschina/android-app) | 开源中国社区 Android 客户端，此开源的是 v1 版本，v2 版本将在2015年年中开源
 [v2ex](https://github.com/kyze8439690/v2ex-daily-android) | v2ex Android 客户端
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | 功能比较完整的 Twitter 客户端
 [Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
+[Coding](https://coding.net/u/coding/p/Coding-Android/git) | Coding 类似于 github 一个代码托管平台，这个是 Coding 的 Android 版客户端
+[ZXing](https://github.com/zxing/zxing) | 二维码扫描工具，市场上许多应用的二维码扫描工具都是从这个修改得到的
+[photup](https://github.com/chrisbanes/photup) | 编辑机批量上传照片到facebook上，代码分包合理，很棒。不过这个项目依赖的开源项目比较多，比较难编译
+[todo.txt-android](https://github.com/ginatrapani/todo.txt-android) | todo.txt 官方 Android 应用，一个极简的将待办事件记录在 .txt 文件中
+[扫扫图书](https://github.com/JayFang1993/ScanBook) | 一个让你懂得如何去选择一本书的 APP，具有扫描搜索查询图书的信息功能
+[ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) | 开启摄像头在你所在位置寻找鬼魂，进行打鬼游戏
+[AntennaPod](https://github.com/AntennaPod/AntennaPod) | AntennaPod 是一个自由、开源的播客客户端，支持Atom和RSS Feed
+[干柴](https://github.com/openproject/AndroidDigest) | 开发者是冯建，一个专注收集 android 相关干货(文摘，名博，github等等)资源 App
+[Hacker News](https://github.com/manmal/hn-android) | 一个查看黑客新闻报道和评论的 App
+[proxydroid](https://github.com/madeye/proxydroid) | ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)
+[AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用，简单的手势就可以进入预置的应用。方便快捷。
+[指读](https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master) | 指读顾名思义就是用手指去阅读浩瀚的书海
+
 
 ## Awesome 系列：
 
@@ -111,6 +125,8 @@
 - [一个滑动图像加载的缓存库](https://github.com/bumptech/glide)
 - [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
+- [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
+- [Android开发，你应该知道的学习资源](http://android.jobbole.com/80815/)
 
 ## 知乎上的讨论：
 
