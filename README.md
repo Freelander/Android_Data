@@ -52,6 +52,7 @@
  -------- | --------
 [Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计
 [Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器
+[Google Santa Tracker for Android](https://github.com/google/santa-tracker-android?utm_source=www.race604.com) | Google 开源的一个儿童教育和娱乐的 App
 [github客户端](https://github.com/github/android) | 开源者 github 团队，支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织、好友和资料库的更新信息，还提供了一个用于快速访问你创建、监控以及发布 issue 面板，可查看并将问题加到收藏夹
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端，国内很少见的精彩而且开源的 APP，获得豌豆荚110期设计奖
 [EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家，EverMemo 是一款让你快速记录与分享灵感的随身便签，极简的界面与卡片式布局，让你记录与查找便签更有效率
@@ -79,6 +80,20 @@
 [AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用，简单的手势就可以进入预置的应用。方便快捷。
 [指读](https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master) | 指读顾名思义就是用手指去阅读浩瀚的书海
 
+## Android 开发者杂志周刊
+
+  ( 资料整理出自于 [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
+
+  周刊名 | 周刊简介
+  ------ | -------
+[Android Weekly](http://androidweekly.net/) | Android Weekly 是由Android 团队的成员和国外知名的 Android开发者维护，分享的内容不仅仅只有干货，而且还有最新的技术分享，也是Android 开发圈子最早，最有名的周报
+[Android开发技术周报](http://www.androidweekly.cn/) | Android开发技术周报是由[@脉脉不嘚語](http://weibo.com/234959219) 维护更新，截止到现在，已经发布了28 期，分享的都是高质量的文章教程，代码库，工具，新闻视频，设计等
+[Android 科学院](http://zhuanlan.zhihu.com/andlib) | 由 [@duguguiyu](http://weibo.com/duguguiyu?from=feed&loc=at&nick=duguguiyu)和豌豆荚一小撮工程师组成，分享的都是最新的 Android 技术；虽然更新频率不是很高，但是质量确是很很高的，值得一看的
+[开发技术前线](http://www.devtf.cn/?cat=2) | 开发技术前线是一个高质量技术文章的聚合网站，主要分享Android，iOS，以及招聘等内容
+[App开发日报](http://app.memect.com/) | App开发日报主要关注移动应用的开发，它每天一刊，分享的内容主要来自微博上知名的开发者推荐的内容，因此质量基本上是有保证的
+[Android开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在Infoq 的周刊，它不仅分享Android的相关新闻，新工具，而且还有更加深入的，所以对于新生老人都很适合
+
+
 
 ## Awesome 系列：
 
@@ -86,6 +101,7 @@
 - [awesome_android(2)](https://github.com/JStumpp/awesome-android)
 - [awesome_android_UI](https://github.com/wasabeef/awesome-android-ui)
 - [awesome_android_libraries](https://github.com/wasabeef/awesome-android-libraries)
+- [awesome_java](https://github.com/akullpp/awesome-java)
 
 ## Material Design 设计：
 
@@ -113,6 +129,12 @@
 - [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 - [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
+## 实践篇
+
+- [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+- [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
+- [给半新人的app开发指南](http://hamberluo.cn/)
+- [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
 
 ## 文档：
 
@@ -120,12 +142,10 @@
 
 ## 其它：
 
-- [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
 - [一个滑动图像加载的缓存库](https://github.com/bumptech/glide)
 - [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
-- [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
 - [Android开发，你应该知道的学习资源](http://android.jobbole.com/80815/)
 
 ## 知乎上的讨论：
@@ -133,6 +153,4 @@
 - [有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
 - [GitHub 上都有哪些值得关注学习的 Android项目？](http://www.zhihu.com/question/23804819)
 - [2015 年移动设备界面设计有哪些趋势？](http://www.zhihu.com/question/28841081)
-
-
 
