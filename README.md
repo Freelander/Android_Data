@@ -1,10 +1,12 @@
 # Android 学习资料收集                                                        
 
- 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS)
+ 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 引用了一下开头
 
  收集整理这份资料主要帮助初学者学习 Android 开发, 希望能快速帮助到他们快速入门, 找到适合自己学习资料,   节省再去收集学习资料时间.
 
  这份资料我会不断的更新完善, 同时也欢迎更多具有丰富经验的Android开发者将自己常用的工具、学习资料、学习心得等分享上来, 我将定期筛选合并, 该份学习资料有不足的地方, 也请指出, 我会谦虚接受改正, 希望我能与大家一起来学习, 谢谢.
+
+ **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/u/2719372027)联系我**
 
 ## 书籍
 
@@ -16,14 +18,21 @@
   [疯狂Android讲义第二版](http://www.amazon.cn/%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89-%E6%9D%8E%E5%88%9A/dp/B00BSXRLR8/ref=sr_1_1?ie=UTF8&qid=1428138488&sr=8-1&keywords=%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89%E7%AC%AC%E4%BA%8C%E7%89%88) | 作者是李刚, 这本书的缺点是很厚, 但优点是说的非常详细, 代码很多, 可以跟着代码一步步敲 
 
 
-## 开发环境/插件：
-（附上: 下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙）
+## 开发环境/工具：
+(附上: 下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools))
 
- 环境名称 | 环境简述
+ 环境/工具 | 简述
  -------- | --------
 [Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用
- [Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从Google推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是Android开发工具的未来, 所以极力推荐Android开发人员使用这个工具
+ [Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
  [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
+ [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 
+ ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
+ [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
+ [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
+ [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现Serializable接口和Parcelable接口, 但在Android中是推荐使用Parcelable, 只不过我们这种方式要比Serializable方式要繁琐，那么有了这个插件一切就ok了
+ [LeakCanary]() | 良心企业Square最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+
 
 ## 博客：
 
@@ -48,10 +57,10 @@
 
 ## 开源项目学习：
 
- 项目名称 | 项目简介
+ 项目名称 | 项目简介 
  -------- | --------
-[Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计
-[Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器
+[Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计 
+[Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器 
 [Google Santa Tracker for Android](https://github.com/google/santa-tracker-android?utm_source=www.race604.com) | Google 开源的一个儿童教育和娱乐的 App
 [github客户端](https://github.com/github/android) | 开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织、好友和资料库的更新信息, 还提供了一个用于快速访问你创建、监控以及发布 issue 面板, 可查看并将问题加到收藏夹
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖
@@ -64,7 +73,7 @@
 [知乎专栏](https://github.com/bxbxbai/ZhuanLan) | 开发者是白瓦力, 项目结构清晰, 代码分包合理, 很棒. 很适合新手去学习如何搭建一个 App 结构, 熟悉开发一个完整 App 的流程
 [eoe 客户端](https://github.com/eoecn/android-app) | eoe 社区Android客户端
 [oschina](http://git.oschina.net/oschina/android-app) | 开源中国社区 Android 客户端, 此开源的是 v1 版本, v2 版本将在2015年年中开源
-[v2ex](https://github.com/kyze8439690/v2ex-daily-android) | v2ex Android 客户端
+[v2ex](https://github.com/kyze8439690/v2ex-daily-android) | 开发者是[杨辉](http://yanghui.name/about/), 这个是 v2ex Android 第三方客户端
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | 功能比较完整的 Twitter 客户端
 [Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
 [Coding](https://coding.net/u/coding/p/Coding-Android/git) | Coding 类似于 github 一个代码托管平台, 这个是 Coding 的 Android 版客户端
@@ -80,10 +89,13 @@
 [AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用, 简单的手势就可以进入预置的应用, 方便快捷
 [指读](https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master) | 指读顾名思义就是用手指去阅读浩瀚的书海
 [KJ 音乐](https://github.com/KJFrame/KJMusic) | 开发者是[张涛](http://blog.kymjs.com/about/), 快捷音乐使用到[KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ账号的一键登录
+-[哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
+-[码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
+-[cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下)
 
 ## Android 开发者杂志周刊
 
-  ( 资料整理出自于 [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
+  ( 资料来自于 [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
 
   周刊名 | 周刊简介
   ------ | -------
@@ -103,6 +115,7 @@
 - [awesome_android_UI](https://github.com/wasabeef/awesome-android-ui)
 - [awesome_android_libraries](https://github.com/wasabeef/awesome-android-libraries)
 - [awesome_java](https://github.com/akullpp/awesome-java)
+- [awesome_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign)
 
 ## Material Design 设计：
 
