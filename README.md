@@ -26,8 +26,7 @@
 [Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用
 [Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
 [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
-[ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 
-ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
+[ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
 [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现Serializable接口和Parcelable接口, 但在Android中是推荐使用Parcelable, 只不过我们这种方式要比Serializable方式要繁琐，那么有了这个插件一切就ok了
