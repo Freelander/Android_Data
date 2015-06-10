@@ -24,14 +24,14 @@
  环境/工具 | 简述
  -------- | --------
 [Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用
- [Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
- [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
- [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 
- ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
- [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
- [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
- [ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现Serializable接口和Parcelable接口, 但在Android中是推荐使用Parcelable, 只不过我们这种方式要比Serializable方式要繁琐，那么有了这个插件一切就ok了
- [LeakCanary]() | 良心企业Square最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+[Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
+[Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
+[ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | 
+ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
+[SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
+[GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
+[ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现Serializable接口和Parcelable接口, 但在Android中是推荐使用Parcelable, 只不过我们这种方式要比Serializable方式要繁琐，那么有了这个插件一切就ok了
+[LeakCanary](https://github.com/square/leakcanary) | 良心企业Square最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 
 
 ## 博客：
@@ -89,9 +89,9 @@
 [AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用, 简单的手势就可以进入预置的应用, 方便快捷
 [指读](https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master) | 指读顾名思义就是用手指去阅读浩瀚的书海
 [KJ 音乐](https://github.com/KJFrame/KJMusic) | 开发者是[张涛](http://blog.kymjs.com/about/), 快捷音乐使用到[KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ账号的一键登录
--[哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
--[码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
--[cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下)
+[哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
+[码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
+[cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下
 
 ## Android 开发者杂志周刊
 
@@ -158,7 +158,6 @@
 ## 其它：
 
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
-- [一个滑动图像加载的缓存库](https://github.com/bumptech/glide)
 - [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
