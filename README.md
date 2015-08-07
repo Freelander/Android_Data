@@ -15,7 +15,7 @@
   --------- | --------
 [Thinking In Java 中文版](http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1428138267&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3) | 学习 Android 开发, 首先需要 Java 基础, 这里推荐 Thinking In Java, Thinking In Java 是 Java 的经典书籍, 是学习 Java 语言必备书籍
   [第一行代码](http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&qid=1428138432&sr=8-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96)   | 郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习 
-  [疯狂Android讲义第二版](http://www.amazon.cn/%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89-%E6%9D%8E%E5%88%9A/dp/B00BSXRLR8/ref=sr_1_1?ie=UTF8&qid=1428138488&sr=8-1&keywords=%E7%96%AF%E7%8B%82Android%E8%AE%B2%E4%B9%89%E7%AC%AC%E4%BA%8C%E7%89%88) | 作者是李刚, 这本书的缺点是很厚, 但优点是说的非常详细, 代码很多, 可以跟着代码一步步敲 
+  [疯狂Android讲义第三版](http://item.jd.com/11689014.html) | 作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲 
 
 
 ## 开发环境/工具：
@@ -26,6 +26,9 @@
 [Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用
 [Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
 [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
+[jadx](https://github.com/skylot/jadx) | 一个Android反编译神器,不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar),这个反编译器生成代码的 try/catch 次数更少, View也不再是数字id了,可读性更高
+[Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv是一款免费 APK 分析软件,对你感兴趣的APP分析看看它们都用了些什么, 对你学习借鉴有一定帮助
+[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
@@ -61,10 +64,11 @@
 [Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计 
 [Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器 
 [Google Santa Tracker for Android](https://github.com/google/santa-tracker-android?utm_source=www.race604.com) | Google 开源的一个儿童教育和娱乐的 App
-[github客户端](https://github.com/github/android) | 开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织、好友和资料库的更新信息, 还提供了一个用于快速访问你创建、监控以及发布 issue 面板, 可查看并将问题加到收藏夹
+[github客户端](https://github.com/github/android) | 开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织好友和资料库的更新信息, 还提供了一个用于快速访问你创建,监控以及发布 issue 面板, 可查看并将问题加到收藏夹
+[Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | 一个完整版 Twitter 第三方客户端, 属于顶级水平, 而且在源代码 100% 开源, 学习资源让你取之不尽
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖
-[EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家，EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率
-[9GAG stormzhang](https://github.com/stormzhang/9GAG) | 开发者是stormzhang的博主, 这个开源项目教你使用Studio,Gradle以及一些流行的开源库快速开发一个不错的Android客户端
+[EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家, EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率
+[9GAGstormzhang](https://github.com/stormzhang/9GAG) | 开发者是stormzhang的博主,这个开源项目教你使用Studio,Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端
 [MIUI 便签](https://github.com/MiCode/Notes) | MiCode 便签是小米便签的社区开源版, 由 MIUI 团队（ww.miui.com）发起并贡献第一批代码, 遵循 NOTICE 文件所描述的开源协议
 [贝壳单词](https://github.com/drakeet/Seashell-app) | 开发者是许晓峰(Drakeet), 获得豌豆荚设计奖, 这个是初期版本, 新版没有开源, 但是在博主的博客当中将一些新版的内容都剥离出来写成了文章,可以去学习一下
 [Muzei Live Wallpaper](https://github.com/romannurik/muzei) | 开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App
@@ -76,13 +80,13 @@
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | 功能比较完整的 Twitter 客户端
 [Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
 [Coding](https://coding.net/u/coding/p/Coding-Android/git) | Coding 类似于 github 一个代码托管平台, 这个是 Coding 的 Android 版客户端
-[ZXing](https://github.com/zxing/zxing) | 二维码扫描工具, 市场上许多应用的二维码扫描工具都是从这个修改得到的
-[photup](https://github.com/chrisbanes/photup) | 编辑机批量上传照片到facebook上, 代码分包合理, 很棒. 不过这个项目依赖的开源项目比较多, 比较难编译
+[ZXing](https://github.com/zxing/zxing) | 二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的
+[photup](https://github.com/chrisbanes/photup) | 编辑机批量上传照片到facebook上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译
 [todo.txt-android](https://github.com/ginatrapani/todo.txt-android) | todo.txt 官方 Android 应用, 一个极简的将待办事件记录在 .txt 文件中
 [扫扫图书](https://github.com/JayFang1993/ScanBook) | 一个让你懂得如何去选择一本书的 APP, 具有扫描搜索查询图书的信息功能
 [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) | 开启摄像头在你所在位置寻找鬼魂, 进行打鬼游戏
 [AntennaPod](https://github.com/AntennaPod/AntennaPod) | AntennaPod 是一个自由、开源的播客客户端, 支持Atom和RSS Feed
-[干柴](https://github.com/openproject/AndroidDigest) | 开发者是冯建, 一个专注收集 android 相关干货(文摘，名博，github等等)资源 App
+[干柴](https://github.com/openproject/AndroidDigest) | 开发者是冯建, 一个专注收集 android 相关干货(文摘,名博,github等等)资源 App
 [Hacker News](https://github.com/manmal/hn-android) | 一个查看黑客新闻报道和评论的 App
 [proxydroid](https://github.com/madeye/proxydroid) | ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)
 [AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用, 简单的手势就可以进入预置的应用, 方便快捷
@@ -91,6 +95,7 @@
 [哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
 [码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
 [cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下
+[BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight是由纸飞机开发团队开发的一款Android上的新浪微博第三方轻量级客户端
 
 ## Android 开发者杂志周刊
 
@@ -128,6 +133,8 @@
 - [常用色彩搭配表](http://tool.c7sky.com/webcolor/)
 - [在线 Material Design 界面调色板](http://www.materialpalette.com/)
 - [Material Design设计模板与素材](http://www.materialup.com/)
+- [App Icon 图标](https://icons8.com/)
+- [Icon Store](http://iconstore.co/)
 
 ## 开源库收集：
 
@@ -147,8 +154,9 @@
 - [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 - [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
 - [Android 屏幕适配全攻略](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
-- [给半新人的app开发指南](http://hamberluo.cn/)
+- [给半新人的app开发指南](http://www.hamberluo.cn/2015/04/27/semi-android-newer)
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
+- [Android开发人员应避免的10个误区](http://www.imooc.com/article/1287)
 
 ## 文档：
 
@@ -163,7 +171,8 @@
 
 ## 知乎上的讨论：
 
-- [有哪些 Android 大牛的 blog 值得推荐？](http://www.zhihu.com/question/19775981)
-- [GitHub 上都有哪些值得关注学习的 Android项目？](http://www.zhihu.com/question/23804819)
-- [2015 年移动设备界面设计有哪些趋势？](http://www.zhihu.com/question/28841081)
+- [有哪些 Android 大牛的 blog 值得推荐?](http://www.zhihu.com/question/19775981)
+- [GitHub 上都有哪些值得关注学习的 Android项目?](http://www.zhihu.com/question/23804819)
+- [2015 年移动设备界面设计有哪些趋势?](http://www.zhihu.com/question/28841081)
+- [Android开发中, 有哪些让你觉得相见恨晚的方法,类或接口?](http://www.zhihu.com/question/33636939)
 
