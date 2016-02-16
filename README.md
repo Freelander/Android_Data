@@ -14,21 +14,30 @@
   书籍名称  | 推荐理由 
   --------- | --------
 [Thinking In Java 中文版](http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1428138267&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3) | 学习 Android 开发, 首先需要 Java 基础, 这里推荐 Thinking In Java, Thinking In Java 是 Java 的经典书籍, 是学习 Java 语言必备书籍
-  [第一行代码](http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&qid=1428138432&sr=8-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96)   | 郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习 
-  [疯狂Android讲义第三版](http://item.jd.com/11689014.html) | 作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲 
+[第一行代码](http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&qid=1428138432&sr=8-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96)   | 郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习 
+[疯狂Android讲义第三版](http://item.jd.com/11689014.html) | 作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲 
+[Android群英传](http://www.amazon.cn/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0-%E5%BE%90%E5%AE%9C%E7%94%9F/dp/B01481RAA4/ref=sr_1_1?m=A1AJ19PSB66TGU&s=books&ie=UTF8&qid=1442198757&sr=1-1&keywords=android%E7%BE%A4%E8%8B%B1%E4%BC%A0) | 本书作者@Tomcat的猫, 曾就职于上海TCL通讯, 从事Alcatel（阿尔卡特）Android手机系统的定制工作, 活跃于CSDN, 目前就职于上海沪江网Android开发部RD项目组, 负责沪江App的功能预研
+[Android开发艺术探索](http://product.china-pub.com/4806147) | Android开发艺术探索》由@任玉刚Coder所著, 是一本Android进阶类书籍, 采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点. 本书从三个方面来组织内容: 第一, 介绍Android开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.
+[App 研发录](http://book.douban.com/subject/26649050/) | 本书作者是包建强, 本书作者多年 App 开发的经验总结, 从App架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.
+[Android 设计模式源码分析](http://book.douban.com/subject/26644935/) | 本书作者是开发技术前线创立者之一 Mr.Simple, 该书从 Android 源码的角度由浅入深地剖析设计模式的运用, 让工程师们把设计与模式重视起来, 提升自己的设计能力与代码质量
+
 
 
 ## 开发环境/工具：
-(附上: 下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools))
+(附上: 超多开发工具下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools))
 
  环境/工具 | 简述
  -------- | --------
-[Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用
-[Android Studio](http://developer.android.com/sdk/index.html) | 这个环境不太适合新手使用, 上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具
+[Eclipse ADT](http://developer.android.com/sdk/index.html) | 一个集成完整的Android开发环境, 包含一个定制的Eclipse + ADT plugin, 以及最新的SDK及源码, 上手非常容易, 这个适合新手使用, 但该工具 Google 已停止维护更新, 如果你是新手那我还是建议使用 Android Studio 开发工具
+[Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了
 [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
 [jadx](https://github.com/skylot/jadx) | 一个Android反编译神器,不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar),这个反编译器生成代码的 try/catch 次数更少, View也不再是数字id了,可读性更高
+[android-selector](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成 Selector Drawable 的插件
+[GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) | Gradle 依赖自动补全插件
 [Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv是一款免费 APK 分析软件,对你感兴趣的APP分析看看它们都用了些什么, 对你学习借鉴有一定帮助
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构
+[CodeGlance](https://github.com/Vektah/CodeGlance) | 在编辑代码最右侧, 显示一块代码小地图
+[Stetho](http://facebook.github.io/stetho/) | Stetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volle, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
@@ -41,23 +50,28 @@
  博客地址 | 博主信息
  -------- | --------
 [Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(需翻墙)
- [胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作, 发起Google Android官方培训课程中文版翻译, 这课程是学习Android应用开发的绝佳资料
- [Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://www.codekk.com/)
- [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
- [代码家](http://blog.daimajia.com/) | 90后Android大神, 称作库达人, 博主收集了很多Android开源库, 博主自己也做了很多开源库, 非常值得学习
- [stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管, 博主分享了他学习Android的经验, 写了一篇[ Android 学习之路]得到非常多人赞同, 里面还有很多好的文章非常适合新手看
- [light_sky](http://www.lightskystreet.com/) | Android开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于GitHub、G+、Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
- [更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息, 大家可以去看看
+[胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习Android应用开发的绝佳资料
+[Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://www.codekk.com/)
+[郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
+[代码家](http://blog.daimajia.com/) | 90后Android大神, 称作库达人, 博主收集了很多Android开源库, 博主自己也做了很多开源库, 非常值得学习
+[stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管, 博主分享了他学习Android的经验, 写了一篇[ Android 学习之路]得到非常多人赞同, 里面还有很多好的文章非常适合新手看
+[light_sky](http://www.lightskystreet.com/) | Android开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于GitHub、G+、Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
+[张鸿洋](http://blog.csdn.net/lmj623565791/) | 张鴻洋是 CSDN 博客专家, 博主在 CSDN 所发布的每一篇文章都是干货, 都很值得大家去学习
+[张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发，关注移动支付业务。
+[更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息, 大家可以去看看
 
 ## 社区：
 
  名称 | 简介
  ---- | ----
+[StackOverFlow](http://stackoverflow.com/) | IT 界的问答社区, 你开发当中所遇到的问题基本上都能在这里能寻找到你想要的答案
+[SegmentFault](http://segmentfault.com/t/android) | SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区
 [eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单, 做最棒的开发者社区
 [APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
 
 
-## 开源项目学习：
+
+## 开源项目学习：  
 
  项目名称 | 项目简介 
  -------- | --------
@@ -96,6 +110,9 @@
 [码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
 [cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight是由纸飞机开发团队开发的一款Android上的新浪微博第三方轻量级客户端
+[Actor](https://github.com/actorapp/actor-platform) | Actor(优聆) 是一款即时通讯 App, 解决网络通讯差的情况, 支持离线消息和文件存储, 自动与手机联系人建立联系等等
+[Plaid](https://github.com/nickbutcher/plaid) | 一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义
+[SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发
 
 ## Android 开发者杂志周刊
 
@@ -110,8 +127,6 @@
 [App开发日报](http://app.memect.com/) | App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的
 [Android开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享Android的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合
 
-
-
 ## Awesome 系列：
 
 - [awesome android(1)](https://github.com/snowdream/awesome-android)
@@ -120,17 +135,25 @@
 - [awesome_android_libraries](https://github.com/wasabeef/awesome-android-libraries)
 - [awesome_java](https://github.com/akullpp/awesome-java)
 - [awesome_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign)
+- [awesome 系列之终极版](https://github.com/sindresorhus/awesome)
+
+## 动画系列
+- [animate](https://github.com/hitherejoe/animate)
+- [awesome-animation](https://github.com/Animatious/awesome-animation)
 
 ## Material Design 设计：
 
 - [Material Design 教程](https://www.google.com/design/spec/material-design/introduction.html)
 - [Material Design 教程(中文版)](http://design.1sters.com/material_design/material-design/introduction.html)
+- [Material Design 教程(中文版)新增二十多章节](http://wiki.jikexueyuan.com/project/material-design/material-design-intro/introduction.html)
 - [Material Design Android Library ](https://github.com/navasmdc/MaterialDesignLibrary)(Material Design 开源库, 很多效果可以直接拿来用)
 - [十大Material Design开源项目](http://www.aplesson.com/?p=650)
+
 
 ## 素材：
 
 - [常用色彩搭配表](http://tool.c7sky.com/webcolor/)
+- [ColorHunt-色彩搭配](http://www.colorhunt.co/)
 - [在线 Material Design 界面调色板](http://www.materialpalette.com/)
 - [Material Design设计模板与素材](http://www.materialup.com/)
 - [App Icon 图标](https://icons8.com/)
@@ -142,6 +165,8 @@
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时, 也应该了解当中的原理)
+- [Android 开源库列表的整理](https://github.com/cesards/AndroidElementals#libraries)
+- [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=31)
 
 ## 设计模式：
 
@@ -157,6 +182,15 @@
 - [给半新人的app开发指南](http://www.hamberluo.cn/2015/04/27/semi-android-newer)
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
 - [Android开发人员应避免的10个误区](http://www.imooc.com/article/1287)
+- [Java反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+- [Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1)
+- [Android 命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
+- [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
+- [Android-Tips](https://github.com/tangqi92/Android-Tips)
+- [git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
+- [最全 Android ADB Shell](http://adbshell.com/)
+- [AndroidNote](https://github.com/CharonChui/AndroidNote)
+- [Android 常用工具类](https://github.com/l123456789jy/Lazy)
 
 ## 文档：
 
@@ -168,6 +202,10 @@
 - [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
+- [AndroidCat安卓书签网](https://github.com/ColorfulCat/AndroidGuide)
+- [每个Android开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
+- [Android开发者网址导航](http://www.jianshu.com/p/54902270249d)
+
 
 ## 知乎上的讨论：
 
@@ -175,4 +213,8 @@
 - [GitHub 上都有哪些值得关注学习的 Android项目?](http://www.zhihu.com/question/23804819)
 - [2015 年移动设备界面设计有哪些趋势?](http://www.zhihu.com/question/28841081)
 - [Android开发中, 有哪些让你觉得相见恨晚的方法,类或接口?](http://www.zhihu.com/question/33636939)
-
+- [Android Studio有哪些非常好用的插件?](https://www.zhihu.com/question/28527388)
+- [Android 开发有哪些新技术出现?](https://www.zhihu.com/question/32037895)
+- [有哪些优秀的 Android 应用开源项目、特效、设计资料推荐?](https://www.zhihu.com/question/19804692)
+- [有没有适合 Android 开发初学者的 App 源码推荐](https://www.zhihu.com/question/26687642
+)
