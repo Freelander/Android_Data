@@ -37,6 +37,8 @@
 [Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv是一款免费 APK 分析软件,对你感兴趣的APP分析看看它们都用了些什么, 对你学习借鉴有一定帮助
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构
 [CodeGlance](https://github.com/Vektah/CodeGlance) | 在编辑代码最右侧, 显示一块代码小地图
+[Statistic](https://plugins.jetbrains.com/plugin/?idea&id=4509) | 统计整个项目行数的插件, 这可表示我们日日夜夜辛辛苦苦必备插件
+[idea-markdown](https://github.com/nicoulaj/idea-markdown) | 在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件
 [Stetho](http://facebook.github.io/stetho/) | Stetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volle, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
@@ -113,10 +115,11 @@
 [Actor](https://github.com/actorapp/actor-platform) | Actor(优聆) 是一款即时通讯 App, 解决网络通讯差的情况, 支持离线消息和文件存储, 自动与手机联系人建立联系等等
 [Plaid](https://github.com/nickbutcher/plaid) | 一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发
+[PHPHub-Android](https://github.com/CycloneAxe/phphub-android) | PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下
 
 ## Android 开发者杂志周刊
 
-  ( 资料来自于 [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
+( 资料是 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接地址: [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
 
   周刊名 | 周刊简介
   ------ | -------
@@ -165,7 +168,6 @@
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时, 也应该了解当中的原理)
-- [Android 开源库列表的整理](https://github.com/cesards/AndroidElementals#libraries)
 - [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=31)
 
 ## 设计模式：
@@ -216,5 +218,4 @@
 - [Android Studio有哪些非常好用的插件?](https://www.zhihu.com/question/28527388)
 - [Android 开发有哪些新技术出现?](https://www.zhihu.com/question/32037895)
 - [有哪些优秀的 Android 应用开源项目、特效、设计资料推荐?](https://www.zhihu.com/question/19804692)
-- [有没有适合 Android 开发初学者的 App 源码推荐](https://www.zhihu.com/question/26687642
-)
+- [有没有适合 Android 开发初学者的 App 源码推荐](https://www.zhihu.com/question/26687642)
