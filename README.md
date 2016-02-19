@@ -201,21 +201,25 @@
 ## 其它：
 
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
-- [Android 管理图片与它内存的库](https://github.com/facebook/fresco)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
 - [AndroidCat安卓书签网](https://github.com/ColorfulCat/AndroidGuide)
 - [每个Android开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
 - [Android开发者网址导航](http://www.jianshu.com/p/54902270249d)
+- [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
 
 
 ## 知乎上的讨论：
 
 - [有哪些 Android 大牛的 blog 值得推荐?](http://www.zhihu.com/question/19775981)
 - [GitHub 上都有哪些值得关注学习的 Android项目?](http://www.zhihu.com/question/23804819)
+- [GitHub 上有哪些适合新人围观的 Android 项目?](https://www.zhihu.com/question/28481864)
 - [2015 年移动设备界面设计有哪些趋势?](http://www.zhihu.com/question/28841081)
 - [Android开发中, 有哪些让你觉得相见恨晚的方法,类或接口?](http://www.zhihu.com/question/33636939)
 - [Android Studio有哪些非常好用的插件?](https://www.zhihu.com/question/28527388)
 - [Android 开发有哪些新技术出现?](https://www.zhihu.com/question/32037895)
 - [有哪些优秀的 Android 应用开源项目、特效、设计资料推荐?](https://www.zhihu.com/question/19804692)
-- [有没有适合 Android 开发初学者的 App 源码推荐](https://www.zhihu.com/question/26687642)
+- [有没有适合 Android 开发初学者的 App 源码推荐?](https://www.zhihu.com/question/26687642)
+- [Android有什么好的技术点适合进行技术分享?](https://www.zhihu.com/question/29939631)
+- [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
+- [Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?](https://www.zhihu.com/question/37433825)
