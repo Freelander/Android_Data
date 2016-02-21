@@ -116,6 +116,7 @@
 [Plaid](https://github.com/nickbutcher/plaid) | 一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发
 [PHPHub-Android](https://github.com/CycloneAxe/phphub-android) | PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下
+[Leisure](https://github.com/MummyDing/Leisure) | 闲暇(Leisure)是一款集"知乎日报"、"果壳科学人"、"新华网新闻"以及"豆瓣图书"于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目
 
 ## Android 开发者杂志周刊
 
@@ -193,6 +194,7 @@
 - [最全 Android ADB Shell](http://adbshell.com/)
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
+- [创建安卓app的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
 
 ## 文档：
 
@@ -223,3 +225,7 @@
 - [Android有什么好的技术点适合进行技术分享?](https://www.zhihu.com/question/29939631)
 - [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
 - [Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?](https://www.zhihu.com/question/37433825)
+
+## License
+
+以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
