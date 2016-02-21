@@ -1,6 +1,6 @@
 # Android 学习资料收集                                                        
 
- 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该文章的开头
+ 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该资料的开头描述
 
  收集整理这份资料主要帮助初学者学习 Android 开发, 希望能快速帮助到他们快速入门, 找到适合自己学习资料,   节省再去收集学习资料时间.
 
