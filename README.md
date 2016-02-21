@@ -1,6 +1,6 @@
 # Android 学习资料收集                                                        
 
- 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 引用了一下开头
+ 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该文章的开头
 
  收集整理这份资料主要帮助初学者学习 Android 开发, 希望能快速帮助到他们快速入门, 找到适合自己学习资料,   节省再去收集学习资料时间.
 
@@ -10,14 +10,13 @@
 
 ## 书籍
 
- 
   书籍名称  | 推荐理由 
   --------- | --------
 [Thinking In Java 中文版](http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1428138267&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3) | 学习 Android 开发, 首先需要 Java 基础, 这里推荐 Thinking In Java, Thinking In Java 是 Java 的经典书籍, 是学习 Java 语言必备书籍
 [第一行代码](http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&qid=1428138432&sr=8-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96)   | 郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习 
 [疯狂Android讲义第三版](http://item.jd.com/11689014.html) | 作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲 
 [Android群英传](http://www.amazon.cn/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0-%E5%BE%90%E5%AE%9C%E7%94%9F/dp/B01481RAA4/ref=sr_1_1?m=A1AJ19PSB66TGU&s=books&ie=UTF8&qid=1442198757&sr=1-1&keywords=android%E7%BE%A4%E8%8B%B1%E4%BC%A0) | 本书作者@Tomcat的猫, 曾就职于上海TCL通讯, 从事Alcatel（阿尔卡特）Android手机系统的定制工作, 活跃于CSDN, 目前就职于上海沪江网Android开发部RD项目组, 负责沪江App的功能预研
-[Android开发艺术探索](http://product.china-pub.com/4806147) | Android开发艺术探索》由@任玉刚Coder所著, 是一本Android进阶类书籍, 采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点. 本书从三个方面来组织内容: 第一, 介绍Android开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.
+[Android开发艺术探索](http://product.china-pub.com/4806147) | 由@任玉刚Coder所著, 是一本Android进阶类书籍, 采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点. 本书从三个方面来组织内容: 第一, 介绍Android开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.
 [App 研发录](http://book.douban.com/subject/26649050/) | 本书作者是包建强, 本书作者多年 App 开发的经验总结, 从App架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.
 [Android 设计模式源码分析](http://book.douban.com/subject/26644935/) | 本书作者是开发技术前线创立者之一 Mr.Simple, 该书从 Android 源码的角度由浅入深地剖析设计模式的运用, 让工程师们把设计与模式重视起来, 提升自己的设计能力与代码质量
 
@@ -56,10 +55,11 @@
 [Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://www.codekk.com/)
 [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
 [代码家](http://blog.daimajia.com/) | 90后Android大神, 称作库达人, 博主收集了很多Android开源库, 博主自己也做了很多开源库, 非常值得学习
-[stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管, 博主分享了他学习Android的经验, 写了一篇[ Android 学习之路]得到非常多人赞同, 里面还有很多好的文章非常适合新手看
+[stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管, 博主分享了他学习Android的经验, 写了一篇 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 得到非常多人赞同, 里面还有很多好的文章非常适合新手看
 [light_sky](http://www.lightskystreet.com/) | Android开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于GitHub、G+、Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
 [张鸿洋](http://blog.csdn.net/lmj623565791/) | 张鴻洋是 CSDN 博客专家, 博主在 CSDN 所发布的每一篇文章都是干货, 都很值得大家去学习
-[张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发，关注移动支付业务。
+[张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发，关注移动支付业务
+[hi大头鬼hi](http://blog.csdn.net/lzyzsd/) | hi大头鬼hi 是阿里巴巴集团的一名 Android 工程师, 擅长 Android, RxJava, RxAndroid, ReactNative, Node.js, 大前端, 可谓是全栈工程师, 如果你对 RxJava 技术感兴趣, 不妨到他的博客看看, 他写了一系列有关 RxJava 的介绍
 [更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息, 大家可以去看看
 
 ## 社区：
@@ -68,10 +68,10 @@
  ---- | ----
 [StackOverFlow](http://stackoverflow.com/) | IT 界的问答社区, 你开发当中所遇到的问题基本上都能在这里能寻找到你想要的答案
 [SegmentFault](http://segmentfault.com/t/android) | SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区
+[CSDN](http://blog.csdn.net/mobile/newest.html) | CSDN 是全球最大中文IT技术社区
 [eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单, 做最棒的开发者社区
 [APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
-
-
+[谷歌开发者社区(GDG)](http://chinagdg.org/) | GDG 是 Google Developer Groups 的缩写, 中文名称是谷歌开发者社区
 
 ## 开源项目学习：  
 
@@ -120,7 +120,7 @@
 
 ## Android 开发者杂志周刊
 
-( 资料是 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接地址: [http://www.jianshu.com/p/54c4a19ffa68](http://www.jianshu.com/p/54c4a19ffa68))
+( 资料是 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接 [地址](http://www.jianshu.com/p/54c4a19ffa68) )
 
   周刊名 | 周刊简介
   ------ | -------
@@ -195,6 +195,9 @@
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
 - [创建安卓app的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
+- [Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
+- [Android 性能优化总结](http://www.trinea.cn/android/performance/)
+- [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
 
 ## 文档：
 
@@ -202,12 +205,11 @@
 
 ## 其它：
 
-- [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
-- [AndroidCat安卓书签网](https://github.com/ColorfulCat/AndroidGuide)
-- [每个Android开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
-- [Android开发者网址导航](http://www.jianshu.com/p/54902270249d)
+- [AndroidCat 安卓书签网](https://github.com/ColorfulCat/AndroidGuide)
+- [每个 Android 开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
+- [Android 开发者网址导航](http://www.jianshu.com/p/54902270249d)
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
 
 
