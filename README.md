@@ -23,7 +23,7 @@
 
 
 ## 开发环境/工具：
-(附上: 超多开发工具下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools))
+(附上: 超多开发工具下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
 
  环境/工具 | 简述
  -------- | --------
@@ -52,7 +52,7 @@
  -------- | --------
 [Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(需翻墙)
 [胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习Android应用开发的绝佳资料
-[Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://www.codekk.com/)
+[Trinea](http://www.trinea.cn/) | 目前在上海安居客负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://p.codekk.com)
 [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
 [代码家](http://blog.daimajia.com/) | 90后Android大神, 称作库达人, 博主收集了很多Android开源库, 博主自己也做了很多开源库, 非常值得学习
 [stormzhang](http://stormzhang.com/) | 博主是上海薄荷信息科技有限公司 开发主管, 博主分享了他学习Android的经验, 写了一篇 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 得到非常多人赞同, 里面还有很多好的文章非常适合新手看
@@ -67,7 +67,7 @@
  名称 | 简介
  ---- | ----
 [StackOverFlow](http://stackoverflow.com/) | IT 界的问答社区, 你开发当中所遇到的问题基本上都能在这里能寻找到你想要的答案
-[SegmentFault](http://segmentfault.com/t/android) | SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区
+[SegmentFault](https://segmentfault.com/t/android) | SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区
 [CSDN](http://blog.csdn.net/mobile/newest.html) | CSDN 是全球最大中文IT技术社区
 [eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单, 做最棒的开发者社区
 [APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
@@ -80,7 +80,7 @@
 [Google I/O 2014](https://github.com/google/iosched) | Google I/O Android App 使用了当时最新推出的 Material Design 设计 
 [Google play music](https://github.com/googlesamples/android-UniversalMusicPlayer) | 一个跨多个平台音乐播放器 
 [Google Santa Tracker for Android](https://github.com/google/santa-tracker-android?utm_source=www.race604.com) | Google 开源的一个儿童教育和娱乐的 App
-[github客户端](https://github.com/github/android) | 开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织好友和资料库的更新信息, 还提供了一个用于快速访问你创建,监控以及发布 issue 面板, 可查看并将问题加到收藏夹
+[github客户端](https://github.com/pockethub/PocketHub) | 开源者 github 团队, 支持项目的 lssues 和 Gists 并集成了新闻 feed 以便及时获取来自组织好友和资料库的更新信息, 还提供了一个用于快速访问你创建,监控以及发布 issue 面板, 可查看并将问题加到收藏夹
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | 一个完整版 Twitter 第三方客户端, 属于顶级水平, 而且在源代码 100% 开源, 学习资源让你取之不尽
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖
 [EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家, EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率
@@ -148,7 +148,7 @@
 ## Material Design 设计：
 
 - [Material Design 教程](https://www.google.com/design/spec/material-design/introduction.html)
-- [Material Design 教程(中文版)](http://design.1sters.com/material_design/material-design/introduction.html)
+- [Material Design 教程(中文版)](http://wiki.jikexueyuan.com/project/material-design/material-design/introduction.html)
 - [Material Design 教程(中文版)新增二十多章节](http://wiki.jikexueyuan.com/project/material-design/material-design-intro/introduction.html)
 - [Material Design Android Library ](https://github.com/navasmdc/MaterialDesignLibrary)(Material Design 开源库, 很多效果可以直接拿来用)
 - [十大Material Design开源项目](http://www.aplesson.com/?p=650)
@@ -161,7 +161,7 @@
 - [在线 Material Design 界面调色板](http://www.materialpalette.com/)
 - [Material Design设计模板与素材](http://www.materialup.com/)
 - [App Icon 图标](https://icons8.com/)
-- [Icon Store](http://iconstore.co/)
+- [Icon Store](https://iconstore.co/)
 
 ## 开源库收集：
 
