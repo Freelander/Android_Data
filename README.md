@@ -8,6 +8,8 @@
 
  **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/u/2719372027)联系我**
 
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持
+
 ## 书籍
 
   书籍名称  | 推荐理由 
