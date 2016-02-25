@@ -198,10 +198,12 @@
 - [Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
 - [Android 性能优化总结](http://www.trinea.cn/android/performance/)
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
+- [36个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
 
 ## 文档：
 
 - [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
+- [Android 官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)(由胡凯发起对 Google Android 官方培训课程翻译的中文版)
 
 ## 其它：
 
