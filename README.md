@@ -41,6 +41,7 @@
 [Statistic](https://plugins.jetbrains.com/plugin/?idea&id=4509) | 统计整个项目行数的插件, 这可表示我们日日夜夜辛辛苦苦必备插件
 [idea-markdown](https://github.com/nicoulaj/idea-markdown) | 在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件
 [Stetho](http://facebook.github.io/stetho/) | Stetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volle, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
+[ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包、方法数量、类、字符串、使用的 NativeLibrary 等
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
@@ -122,16 +123,17 @@
 
 ## Android 开发者杂志周刊
 
-( 资料是 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接 [地址](http://www.jianshu.com/p/54c4a19ffa68) )
+( 前五个资料来自 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接 [地址](http://www.jianshu.com/p/54c4a19ffa68) )
 
   周刊名 | 周刊简介
   ------ | -------
-[Android Weekly](http://androidweekly.net/) | Android Weekly 是由Android 团队的成员和国外知名的 Android开发者维护, 分享的内容不仅仅只有干货, 而且还有最新的技术分享, 也是Android 开发圈子最早, 最有名的周报
-[Android开发技术周报](http://www.androidweekly.cn/) | Android开发技术周报是由[@脉脉不嘚語](http://weibo.com/234959219) 维护更新, 截止到现在, 已经发布了28 期, 分享的都是高质量的文章教程, 代码库, 工具, 新闻视频, 设计等
+[Android Weekly](http://androidweekly.net/) | Android Weekly 是由Android 团队的成员和国外知名的 Android 开发者维护, 分享的内容不仅仅只有干货, 而且还有最新的技术分享, 也是Android 开发圈子最早, 最有名的周报
+[Android 开发技术周报](http://www.androidweekly.cn/) | Android 开发技术周报是由[@脉脉不嘚語](http://weibo.com/234959219) 维护更新, 截止到现在, 已经发布了28 期, 分享的都是高质量的文章教程, 代码库, 工具, 新闻视频, 设计等
 [Android 科学院](http://zhuanlan.zhihu.com/andlib) | 由 [@duguguiyu](http://weibo.com/duguguiyu?from=feed&loc=at&nick=duguguiyu)和豌豆荚一小撮工程师组成, 分享的都是最新的 Android 技术: 虽然更新频率不是很高, 但是质量确是很很高的, 值得一看的
 [开发技术前线](http://www.devtf.cn/?cat=2) | 开发技术前线是一个高质量技术文章的聚合网站, 主要分享 Android, iOS，以及招聘等内容
-[App开发日报](http://app.memect.com/) | App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的
-[Android开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享Android的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合
+[App 开发日报](http://app.memect.com/) | App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的
+[Android 开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享 Android 的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合
+[干货集中营](http://gank.io/) | 由 [代码家](http://blog.daimajia.com/) 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子、Android 干货、iOS 干货、App、技术以外推荐, 还有休息视频
 
 ## Awesome 系列：
 
