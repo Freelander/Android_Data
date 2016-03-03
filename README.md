@@ -147,12 +147,14 @@
 ## 动画系列
 - [animate](https://github.com/hitherejoe/animate)
 - [awesome-animation](https://github.com/Animatious/awesome-animation)
+- [Material-Animations](https://github.com/lgvalle/Material-Animations)
+- [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
+
 
 ## Material Design 设计：
 
 - [Material Design 教程](https://www.google.com/design/spec/material-design/introduction.html)
-- [Material Design 教程(中文版)](http://wiki.jikexueyuan.com/project/material-design/material-design/introduction.html)
-- [Material Design 教程(中文版)新增二十多章节](http://wiki.jikexueyuan.com/project/material-design/material-design-intro/introduction.html)
+- [Material Design 教程(中文版)](https://github.com/1sters/material_design_zh_2)
 - [Material Design Android Library ](https://github.com/navasmdc/MaterialDesignLibrary)(Material Design 开源库, 很多效果可以直接拿来用)
 - [十大Material Design开源项目](http://www.aplesson.com/?p=650)
 
