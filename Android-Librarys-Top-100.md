@@ -4,6 +4,8 @@
 
 **若有任何疑问可通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持, 以及 [@googdev](http://weibo.com/zhangqi8) 的指点
+
 项目名称 | 项目简介
 ---------|---------
 1. [React Native](https://github.com/facebook/react-native) | 这个是 Facebook 在 React.js Conf 2015 大会上推出的基于 JavaScript 的开源框架 React Native, 该框架结合了 Web 应用和 Native 应用的优势, 可以使用 JavaScript 来开发 iOS 和 Android 原生应用
@@ -64,7 +66,7 @@
 56. [FloatingActionButton](https://github.com/futuresimple/android-floating-action-button) | FloatingActionButton 是一个悬浮操作按钮, 官方在 Support Design 包下也有封装一个类似这个库效果的 FloatingActionButton, 值得说明的是这个库是早在官方封装之前就存在的, 个人感觉这个库比官方那个更加好用
 57. [CircleImageView](https://github.com/hdodenhof/CircleImageView) | CircleImageView 是一个轻松帮你实现圆形效果 ImageView 图片库, CircleImageView 是基于 ImageView 扩展出来, 因此它拥有 ImageView 控件所有属性, 简单易用值得你使用的库
 58. [Material](https://github.com/rey5137/material) | Material 是将 Material Design 风格控件封装在该库当中, 目前封装有Progress, Button, Switch, Slider, Spinner, Text Field, TabPageIndicator, SnackBar, Dialog, BottomSheetDialog, Dynamic theme
-59. [ActionBar-PullToRefresh]() | ActionBar-PullToRefresh 是一个下拉刷新, 下拉刷新时在 ActionBar 出现加载中提示的库
+59. [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) | ActionBar-PullToRefresh 是一个下拉刷新, 下拉刷新时在 ActionBar 出现加载中提示的库
 60. [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton) | 又一个悬浮操作按钮库, 该库添加支持监听滑滚动事件, 当向下滑时按钮隐藏, 向上滑时按钮显示, 还有动画效果, 支持监听 ListView, ScrollView, RecylerView
 61. [AndroidAsync](https://github.com/koush/AndroidAsync) | AndroidAsync 是一款基于 NIO 的低端 Android 异步 socket, http (client+server), websocket 和 socket.io 网络通信协议类库
 62. [Rebound](https://github.com/facebook/rebound) | Rebound 是 Facebook 推出的一个弹性动画库, 可以让动画看起来真实自然, 像真实世界的物理运动, 带有力的效果, 使用的参数则是 Facebook 的 origami 中使用的
@@ -151,4 +153,4 @@
 
 ## 感谢
 
-感谢所有为开源而付出努力的人, 相信有你们 Android 会发展的更加美好, 让我们为他们鼓掌!!
+感谢所有为开源而辛辛苦苦付出努力的人, 相信有你们 Android 会发展的更加美好, 让我们一起为他们付出的努力鼓掌吧!!
