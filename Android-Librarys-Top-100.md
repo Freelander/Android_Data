@@ -4,7 +4,7 @@
 
 **若有任何疑问可通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
->感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持, 以及 [@stormzhang](http://weibo.com/zhangqi8) 的指点
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持, 以及 [@stormzhang](https://github.com/stormzhang) 的指点
 
 项目名称 | 项目简介
 ---------|---------
