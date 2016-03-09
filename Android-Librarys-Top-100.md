@@ -1,4 +1,4 @@
-# GitHub Android Librarys Top 100 简介
+# GitHub Android Libraries Top 100 简介
 
 本项目主要对目前 GitHub 上排名前 100 的 Android 开源库进行简单的介绍, 至于排名完全是根据GitHub搜索Java语言选择 (Best Match) 得到的结果, 然后过滤了跟Android不相关的项目, 所以排名并不具备任何官方效力, 仅供参考学习, 方便初学者快速了解当前一些流行的Android开源库.
 
