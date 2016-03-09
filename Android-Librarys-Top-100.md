@@ -2,9 +2,11 @@
 
 本项目主要对目前 GitHub 上排名前 100 的 Android 开源库进行简单的介绍, 至于排名完全是根据GitHub搜索Java语言选择 (Best Match) 得到的结果, 然后过滤了跟Android不相关的项目, 所以排名并不具备任何官方效力, 仅供参考学习, 方便初学者快速了解当前一些流行的Android开源库.
 
-**若有任何疑问可通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
+> iOS 版本的在此: https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md
 
 >感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持, 以及 [@stormzhang](https://github.com/stormzhang) 的指点
+
+**若有任何疑问可通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
 项目名称 | 项目简介
 ---------|---------
