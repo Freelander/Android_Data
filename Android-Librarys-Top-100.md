@@ -28,7 +28,7 @@
 18. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | 由 JakeWharton 大神开发出来的一个 ViewPager 指示器, 使用起来简单方便, 可高度定制, 开发出各种各样动画效果
 19. [glide](https://github.com/bumptech/glide) | Glide 是 Google 员工的开源项目, 广泛应用于 Google 一些 App 上, 在2014年 Google I/O 大会上被推荐使用, Glide 和 Picasso 被人拿来比较研究过, Glide 与 Picasso 有 90% 的相似度, 但在一些细节上还是有点区别的, 各有各优缺点看君选择
 20. [HomeMirror](https://github.com/HannahMitt/HomeMirror) | 开发者是由一名程序媛 Hannah Mittelstaedt , HomeMirror 是一款 Android 镜子应用, 目前它能实现日期, 时间, 天气, 生日信息, 事件提醒器, 骑车天气的推荐, 股票信息, XKCD 漫画网站的新帖等等
-21. [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh) | 一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal ScrollView、Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了
+21. [Android-PullToRefresh(不建议使用)](https://github.com/chrisbanes/Android-PullToRefresh) | 一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal ScrollView、Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了, 推荐使用 Android-Ultra-Pull-to-Refresh
 22. [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | 这个库控件都是遵循了 Google Material Design 设计规范开发出来, 例如有: Flat Button, Rectangle Button, CheckBox, Switch, Progress bar circular indeterminate 等等
 23. [PhotoView](https://github.com/chrisbanes/PhotoView) | PhotoView 是 ImageView 的子类, 支持所有 ImageView 的源生行为, 例如: 支持 Pinch 手势自由缩放, 支持双击放大/还原, 支持平滑滚动等等, 并且非常方便的与 ImageLoader/Picasso 之类的网络图片读取库集成使用, 还方便的与 ViewPager 等同样支持滑动手势的控件集成
 24. [RxAndroid](https://github.com/ReactiveX/RxAndroid) | 由 JakeWharton 大神主导开发的项目, RxAndroid 是 RxJava 的一个针对 Android 平台的扩展, 主要用于 Android 开发
@@ -96,7 +96,7 @@
 86. [android-menudrawer](https://github.com/SimonVT/android-menudrawer) | MenuDrawer 是一款滑出式菜单库, 通过拖动屏幕边缘滑出菜单, 支持屏幕上下左右划出, 支持当前 View 处于上下层, 支持 Windows 边缘, ListView 边缘, ViewPager 变化划出菜单等
 87. [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | RoundedImageView 一个快速支持图片圆角显示效果的库, 该库特点是能快速加载, 为了提高加载速度, 该库不用创建原始位图的副本, 不使用clipPath, 不使用 setXfermode 裁剪的位图等方式来实现 ImageView 圆角, 使用也非常简单
 88. [afinal](https://github.com/yangfuhai/afinal) | Afinal 是一个 android 的 sqlite orm 和 ioc 框架, 同时封装了 android 中的 http 框架, 使其更加简单易用, 使用 finalBitmap, 无需考虑 bitmap 在 android 中加载的时候 oom 的问题和快速滑动的时候图片加载位置错位等问题, Afinal 的宗旨是简洁, 快速, 约定大于配置的方式, 尽量一行代码完成所有事情
-89. [android-pulltorefresh(不建议使用)](https://github.com/johannilsson/android-pulltorefresh) | 一个强大的拉动刷新开源项目, 支持各种控件下拉刷新, ListView, ViewPager, WebView, ExpandableListView, GridView, ScrollView, Horizontal, ScrollView, Fragment 上下左右拉动刷新, 并且它实现的下拉刷新 ListView 在 item 不足一屏情况下也不会显示刷新提示, 体验更好, 但是该库已经停止维护, 因此不建议使用, 可考虑使用 Android-Ultra-Pull-to-Refresh
+89. [android-pulltorefresh(不建议使用)](https://github.com/johannilsson/android-pulltorefresh) | 另一个下拉刷新库, 但是该库已经停止维护, 因此不建议使用, 推荐使用 Android-Ultra-Pull-to-Refresh
 90. [Bolts-Android](https://github.com/BoltsFramework/Bolts-Android) | Bolts 是一款底层类库集合, 在后台实现异步操作, 并提供接口反馈当前异步执行的程度 (可以通过接口实现UI进度更新), 最后反馈执行的结果给UI主线程, 与AsyncTask比较: (1)使用的是无大小限制的线程池; (2)任务可组合可级联,防止了代码耦合
 91. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | NumberProgressBar 开发者是代码家, 这是一个带简约性感数字显示的进度条库, 使用非常简单方便
 92. [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | SwipeBackLayout 是一个支持屏幕上下左右滑动返回上层 Activity, 关闭当前 Activity, 类似简书 App
@@ -153,4 +153,4 @@
 
 ## 感谢
 
-感谢所有为开源而辛辛苦苦付出努力的人, 相信有你们 Android 会发展的更加美好, 让我们一起为他们付出的努力鼓掌吧!!
+感谢所有为开源而辛辛苦苦付出努力的人, 相信有你们 Android 会发展的更加美好, 让我们一起为他们辛辛苦苦付出的努力鼓掌吧!!
