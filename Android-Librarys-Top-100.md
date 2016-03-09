@@ -87,7 +87,7 @@
 77. [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android) | Side Menu 是 [Yalantis](https://yalantis.com/) 组织开源出来, 该组织因开源出一些动画很棒的开源库为大家所熟知该库是其中一个, 该库是提供翻页动画效果的侧边菜单, 动画体验超赞的
 78. [drag-sort-listview](https://github.com/bauerca/drag-sort-listview) | DragSortListView 是一个可以实现拖动排序, 滑动删除的 listview 控件, 注意的是作者对该库已经放弃维护更新了, 不过感兴趣的人可以去研究一下
 79. [android-times-square](https://github.com/square/android-times-square) | TimesSquare 是 Square 公司出品的一款显示日历选择日期的控件, 可以让用户选择多个日期
-80. [GreenDroid(不建议使用)](https://github.com/cyrilmottier/GreenDroid) | GreenDroid 是一个封装好的 Android UI 界面库, 不过改库已经被弃用了，不建议使用
+80. [GreenDroid(不建议使用)](https://github.com/cyrilmottier/GreenDroid) | GreenDroid 是一个封装好的 Android UI 界面库, 不过该库已经被弃用了，不建议使用
 81. [logger](https://github.com/orhanobut/logger) | Logger 是一个简单, 漂亮, 强大 Android 打印日志库
 82. [acra](https://github.com/ACRA/acra) | Acra 是一个能够让 Android 应用自动将崩溃报告以谷歌文档电子表的形式进行发送的库, 旨在当应用发生崩溃或出现错误行为时, 开发者可以获取到相关数据
 83. [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) | FadingActionBar 是一个支持 ListView, ScrollView, WebView 向下滚动时逐渐显示 ActionBar 库
