@@ -1,6 +1,6 @@
 # GitHub Android Libraries Top 100 简介
 
-本项目主要对目前 GitHub 上排名前 100 的 Android 开源库进行简单的介绍, 至于排名完全是根据GitHub搜索Java语言选择 (Best Match) 得到的结果, 然后过滤了跟Android不相关的项目, 所以排名并不具备任何官方效力, 仅供参考学习, 方便初学者快速了解当前一些流行的Android开源库.
+本项目主要对目前 GitHub 上排名前 100 的 Android 开源库进行简单的介绍, 至于排名完全是根据 GitHub 搜索 Java 语言选择 (Best Match) 得到的结果, 然后过滤了跟 Android 不相关的项目, 所以排名并不具备任何官方效力, 仅供参考学习, 方便初学者快速了解当前一些流行的 Android 开源库.
 
 > iOS 版本的在此: https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md
 
@@ -30,7 +30,7 @@
 18. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) | 由 JakeWharton 大神开发出来的一个 ViewPager 指示器, 使用起来简单方便, 可高度定制, 开发出各种各样动画效果
 19. [glide](https://github.com/bumptech/glide) | Glide 是 Google 员工的开源项目, 广泛应用于 Google 一些 App 上, 在2014年 Google I/O 大会上被推荐使用, Glide 和 Picasso 被人拿来比较研究过, Glide 与 Picasso 有 90% 的相似度, 但在一些细节上还是有点区别的, 各有各优缺点看君选择
 20. [HomeMirror](https://github.com/HannahMitt/HomeMirror) | 开发者是由一名程序媛 Hannah Mittelstaedt , HomeMirror 是一款 Android 镜子应用, 目前它能实现日期, 时间, 天气, 生日信息, 事件提醒器, 骑车天气的推荐, 股票信息, XKCD 漫画网站的新帖等等
-21. [Android-PullToRefresh(不建议使用)](https://github.com/chrisbanes/Android-PullToRefresh) | 一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal ScrollView、Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了, 推荐使用 Android-Ultra-Pull-to-Refresh
+21. [Android-PullToRefresh(不建议使用)](https://github.com/chrisbanes/Android-PullToRefresh) | 一个强大的拉动刷新开源项目，支持各种控件下拉刷新，ListView、ViewPager、WebView、ExpandableListView、GridView、ScrollView、Horizontal ScrollView、Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了, 推荐使用 [Android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 22. [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary) | 这个库控件都是遵循了 Google Material Design 设计规范开发出来, 例如有: Flat Button, Rectangle Button, CheckBox, Switch, Progress bar circular indeterminate 等等
 23. [PhotoView](https://github.com/chrisbanes/PhotoView) | PhotoView 是 ImageView 的子类, 支持所有 ImageView 的源生行为, 例如: 支持 Pinch 手势自由缩放, 支持双击放大/还原, 支持平滑滚动等等, 并且非常方便的与 ImageLoader/Picasso 之类的网络图片读取库集成使用, 还方便的与 ViewPager 等同样支持滑动手势的控件集成
 24. [RxAndroid](https://github.com/ReactiveX/RxAndroid) | 由 JakeWharton 大神主导开发的项目, RxAndroid 是 RxJava 的一个针对 Android 平台的扩展, 主要用于 Android 开发
@@ -40,7 +40,7 @@
 28. [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) | 开发者是代码家, AndroidSwipeLayout 是一个支持ListView, GridView, ViewGroup等等左右上下滑动出操作菜单, 类似 qq 消息列表向左滑动显示出多某条信息的操作菜单
 29. [dagger](https://github.com/square/dagger) | Dagger 是 Square 公司出品的一个针对 Android 和 Java 的快速依赖注入器, 能够有效减少你敲代码量
 30. [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations) | 一个轻轻松松给 Android ListView 添加动画效果的库, 支持的动画有: Alpha, SwingRightIn, SwingLeftIn, SwingBottomIn, SwingRightIn and ScaleIn等等, 使用它能很容易就实现帅爆的效果
-31. [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) | PagerSlidingTabStrip 是一个给 Android ViewPager添加上 ViewPager 滑动指示器, 从 GitHub 上面看, 这个库似乎没有人在维护了, 请谨慎使用该库
+31. [PagerSlidingTabStrip(不建议使用)](https://github.com/astuetz/PagerSlidingTabStrip) | PagerSlidingTabStrip 是一个给 Android ViewPager添加上 ViewPager 滑动指示器, 从 GitHub 上面看, 这个库似乎没有人在维护了, 因此不建议使用, 可使用 [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) 来代替
 32. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations) | 开发者是代码家, 这个库实现很多很酷炫的 Android 动画, 动画效果是借鉴 Animate.css 来实现的, 非常酷, 而且这个使用起来也是非常简单
 33. [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) | AndroidSlidingUpPanel 是一个上拉面板, 就是向上滑动的时候往上飞出一个显示面板控件, 该库效果在 Google Music, Google Maps and Rdio等 App 应用到
 34. [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) | MaterialDrawer 是一个类似 Google 官方 NavigationView 侧滑显示控件, 个人认为 NavigationView 并没有 MaterialDrawer 实用, 因为 NavigationView 自由度不是很好, 很多都写死了不可以自由定义布局, 而 MaterialDrawer 能够实现跟 NavigationView 一样的效果, 同时还支持自定义效果, 自由度非常高
@@ -49,7 +49,7 @@
 37. [ion](https://github.com/koush/ion) | ion 是一个让 Android 的网络操作变得极其简单, 支持异步获取和处理JSON, 支持 Android 文件下载 (同时支持下载进度条绑定), 支持安全链接和代理
 38. [stetho](https://github.com/facebook/stetho) | Stetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
 39. [fastjson](https://github.com/alibaba/fastjson) | Fastjson是一个Java语言编写的高性能功能完善的JSON库。它采用一种“假定有序快速匹配”的算法，把JSON Parse的性能提升到极致，是目前Java语言中最快的JSON库。Fastjson接口简单易用，已经被广泛使用在缓存序列化、协议交互、Web输出、Android客户端等多种应用场景
-40. [cardslib](https://github.com/gabrielemariotti/cardslib) | Cardslib 是早期由 Gabriele Mariotti 开发的一个为开发者方便实现各种 Card UI 的 Android 开源代码库, 后来 Google 官方提供自己封装了 CardView 在 v7 包下, 使用 Google 官方的可以完全替代了这个库, 因此这个也被弃用了
+40. [cardslib(不建议使用)](https://github.com/gabrielemariotti/cardslib) | Cardslib 是早期由 Gabriele Mariotti 开发的一个为开发者方便实现各种 Card UI 的 Android 开源代码库, 后来 Google 官方提供自己封装了 CardView 在 v7 包下, 使用 Google 官方的可以完全替代了这个库, 因此这个也被弃用了
 41. [Android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh) | 开发者是廖祜秋, 这个是一个非常强大的下拉刷新库, 继承 ViewGroup 可以包含任何 View, 功能甚至比 SwipeRefreshLayout 强大, 使用起来也非常容易, 还可以自由定制自己的 UI 样式
 42. [greenDAO](https://github.com/greenrobot/greenDAO) | greenDAO 是一个可以帮助 Android 开发者快速将 Java 对象映射到 SQLite 数据库的表单中的 ORM解决方案, 通过使用一个简单的面向对象 API, 开发者可以对 Java 对象进行存储, 更新, 删除和查询, greenDAO 相对 OrmLite, AndrORM 这两个 ORM 开源库, 性能是最高的
 43. [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) | AndroidStaggeredGrid 是一个支持多列并且每一行的 item 大小不一, 交错排列的 GridView, 就是实现瀑布流样式效果, 目前该库已经被弃用了, 开发者建议我们使用 Google 官方控件 RecyleView 中的 StaggeredGridLayoutManager 布局来实现瀑布流效果
@@ -80,7 +80,7 @@
 68. [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) | DroidPlugin 是 360 手机助手在 Android 系统上实现了一种新的插件机制: 它可以在无需安装, 修改的情况下运行APK文件, 此机制对改进大型APP的架构, 实现多团队协作开发具有一定的好处
 69. [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk) | 开发者是singwhatiwanna(任玉刚), 是《Android 开发艺术探索》书籍的作者, 这个是作者联合另两位开发者啸(时之沙)和宋思宇花了几个月时间研究出来的 Apk 动态加载框架, 想了解更多关于这框架可到作者博客看 [这篇文章](http://blog.csdn.net/singwhatiwanna/article/details/39937639) 有详细介绍
 70. [ExoPlayer](https://github.com/google/ExoPlayer) | ExoPlayer 是Google 开发团队开源出来的一个媒体播放库, 比 Android 框架原生的 MediaPlayer 拥有更多优点支持动态的自适应流 HTTP(DASH) 和 平滑流, 支持高级的HLS特性, 支持自定义和扩治你的使用场景等等
-71. [Crouton](https://github.com/keyboardsurfer/Crouton) | Crouton 是一个显示提示信息的显示工具类, 可以用来代替Toast, 默认显示在窗口的顶部, 可以按队列一个接着一个显示, 不过该库已经被弃用, 不推荐使用
+71. [Crouton(不建议使用)](https://github.com/keyboardsurfer/Crouton) | Crouton 是一个显示提示信息的显示工具类, 可以用来代替Toast, 默认显示在窗口的顶部, 可以按队列一个接着一个显示, 不过该库已经被弃用, 不推荐使用
 72. [robospice](https://github.com/stephanenicolas/robospice) | RoboSpice 是一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的rest请求方面尤为强大
 73. [hugo](https://github.com/JakeWharton/hugo) | Hugo 是 JakeWharton 大神推出的一个用于打印 Log, hugo 是基于注解被调用的, 引入相关依赖后, 在方法上加上 @DebugLog 即可输出 Log, 使用非常简单
 74. [async-http-client](https://github.com/AsyncHttpClient/async-http-client) | AsyncHttpClient 是又一款 Android 异步请求库, 该库支持 WebSocket 协议, 使用起来也比较简单易用
@@ -98,7 +98,7 @@
 86. [android-menudrawer](https://github.com/SimonVT/android-menudrawer) | MenuDrawer 是一款滑出式菜单库, 通过拖动屏幕边缘滑出菜单, 支持屏幕上下左右划出, 支持当前 View 处于上下层, 支持 Windows 边缘, ListView 边缘, ViewPager 变化划出菜单等
 87. [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) | RoundedImageView 一个快速支持图片圆角显示效果的库, 该库特点是能快速加载, 为了提高加载速度, 该库不用创建原始位图的副本, 不使用clipPath, 不使用 setXfermode 裁剪的位图等方式来实现 ImageView 圆角, 使用也非常简单
 88. [afinal](https://github.com/yangfuhai/afinal) | Afinal 是一个 android 的 sqlite orm 和 ioc 框架, 同时封装了 android 中的 http 框架, 使其更加简单易用, 使用 finalBitmap, 无需考虑 bitmap 在 android 中加载的时候 oom 的问题和快速滑动的时候图片加载位置错位等问题, Afinal 的宗旨是简洁, 快速, 约定大于配置的方式, 尽量一行代码完成所有事情
-89. [android-pulltorefresh(不建议使用)](https://github.com/johannilsson/android-pulltorefresh) | 另一个下拉刷新库, 但是该库已经停止维护, 因此不建议使用, 推荐使用 Android-Ultra-Pull-to-Refresh
+89. [android-pulltorefresh(不建议使用)](https://github.com/johannilsson/android-pulltorefresh) | 另一个下拉刷新库, 但是该库已经停止维护, 因此不建议使用, 推荐使用 [Android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 90. [Bolts-Android](https://github.com/BoltsFramework/Bolts-Android) | Bolts 是一款底层类库集合, 在后台实现异步操作, 并提供接口反馈当前异步执行的程度 (可以通过接口实现UI进度更新), 最后反馈执行的结果给UI主线程, 与AsyncTask比较: (1)使用的是无大小限制的线程池; (2)任务可组合可级联,防止了代码耦合
 91. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) | NumberProgressBar 开发者是代码家, 这是一个带简约性感数字显示的进度条库, 使用非常简单方便
 92. [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) | SwipeBackLayout 是一个支持屏幕上下左右滑动返回上层 Activity, 关闭当前 Activity, 类似简书 App
