@@ -118,7 +118,7 @@
 [Plaid](https://github.com/nickbutcher/plaid) | 一个遵循 Material Design 的一个设计新闻客户端，里面的一些完全MD的一些特效很棒，同时整个客户端的框架设计也很有参考意义
 [SimplifyReader](https://github.com/SkillCollege/SimplifyReader) | 一款基于 Google Material Design 设计开发的 Android 客户端, 包括新闻简读, 图片浏览, 视频爽看, 音乐轻听以及二维码扫描五个子模块, 项目采取的是MVP架构开发
 [PHPHub-Android](https://github.com/CycloneAxe/phphub-android) | PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下
-[Leisure](https://github.com/MummyDing/Leisure) | 闲暇(Leisure)是一款集"知乎日报"、"果壳科学人"、"新华网新闻"以及"豆瓣图书"于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目
+[Leisure](https://github.com/MummyDing/Leisure) | 闲暇(Leisure)是一款集"知乎日报", "果壳科学人", "新华网新闻"以及"豆瓣图书"于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目
 
 ## Android 开发者杂志周刊
 
@@ -128,11 +128,12 @@
   ------ | -------
 [Android Weekly](http://androidweekly.net/) | Android Weekly 是由Android 团队的成员和国外知名的 Android 开发者维护, 分享的内容不仅仅只有干货, 而且还有最新的技术分享, 也是Android 开发圈子最早, 最有名的周报
 [Android 开发技术周报](http://www.androidweekly.cn/) | Android 开发技术周报是由[@脉脉不嘚語](http://weibo.com/234959219) 维护更新, 截止到现在, 已经发布了28 期, 分享的都是高质量的文章教程, 代码库, 工具, 新闻视频, 设计等
-[Android 科学院](http://zhuanlan.zhihu.com/andlib) | 由 [@duguguiyu](http://weibo.com/duguguiyu?from=feed&loc=at&nick=duguguiyu)和豌豆荚一小撮工程师组成, 分享的都是最新的 Android 技术: 虽然更新频率不是很高, 但是质量确是很很高的, 值得一看的
+[Android 科学院](http://zhuanlan.zhihu.com/andlib) | 由 [@duguguiyu](http://weibo.com/duguguiyu?from=feed&loc=at&nick=duguguiyu)和豌豆荚一小撮工程师组成, 分享的都是最新的 Android 技术: 虽然更新频率不是很高, 但是质量确是很高的, 值得一看的
 [开发技术前线](http://www.devtf.cn/?cat=2) | 开发技术前线是一个高质量技术文章的聚合网站, 主要分享 Android, iOS，以及招聘等内容
 [App 开发日报](http://app.memect.com/) | App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的
 [Android 开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享 Android 的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合
-[干货集中营](http://gank.io/) | 由 [代码家](http://blog.daimajia.com/) 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子、Android 干货、iOS 干货、App、技术以外推荐, 还有休息视频
+[干货集中营](http://gank.io/) | 由 [代码家](http://blog.daimajia.com/) 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子, Android 干货, iOS 干货, App, 技术以外推荐, 还有休息视频
+[AndroidBlog](http://www.androidblog.cn/) | AndroidBlog 是由 [Jomeslu](http://weibo.com/u/2106134235?refer_flag=1001030201_&is_hot=1) 收录的, 目前就职于搜狐, 该周刊分享内容主要有一周国内外热门技术博客, 优秀的类库, 以及一些有趣的新闻, 看了前几期分享的内容质量都是很高的, 因此值得推荐给大家
 
 ## Awesome 系列：
 
