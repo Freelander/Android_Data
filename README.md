@@ -133,7 +133,7 @@
 [App 开发日报](http://app.memect.com/) | App 开发日报主要关注移动应用的开发, 它每天一刊, 分享的内容主要来自微博上知名的开发者推荐的内容, 因此质量基本上是有保证的
 [Android 开发周报](http://www.infoq.com/cn/author/%E9%83%AD%E4%BA%AE) | Android 开发周报是郭亮在连载更新在 Infoq 的周刊, 它不仅分享 Android 的相关新闻, 新工具, 而且还有更加深入的, 所以对于新生老人都很适合
 [干货集中营](http://gank.io/) | 由 [代码家](http://blog.daimajia.com/) 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子, Android 干货, iOS 干货, App, 技术以外推荐, 还有休息视频
-[AndroidBlog](http://www.androidblog.cn/) | AndroidBlog 是由 [Jomeslu](http://weibo.com/u/2106134235?refer_flag=1001030201_&is_hot=1) 收录的, 目前就职于搜狐, 该周刊分享内容主要有一周国内外热门技术博客, 优秀的类库, 以及一些有趣的新闻, 看了前几期分享的内容质量都是很高的, 因此值得推荐给大家
+[Android Blog 周刊](http://www.androidblog.cn/) | AndroidBlog 是由 [Jomeslu](http://weibo.com/u/2106134235?refer_flag=1001030201_&is_hot=1) 收录的, 目前就职于搜狐, 该周刊分享内容主要有一周国内外热门技术博客, 优秀的类库, 以及一些有趣的新闻, 看了前几期分享的内容质量都是很高的, 因此值得推荐给大家
 
 ## Awesome 系列：
 
