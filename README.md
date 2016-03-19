@@ -25,7 +25,7 @@
 
 
 ## 开发环境/工具：
-(附上: 超多开发工具下载[地址](https://github.com/inferjay/AndroidDevTools), 不需翻墙, 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
+(附上: 由 [@脉脉不得语](http://weibo.com/234959219) 收集维护超多开发工具下载地址 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools), 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
 
  环境/工具 | 简述
  -------- | --------
@@ -219,6 +219,7 @@
 - [每个 Android 开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
 - [Android 开发者网址导航](http://www.jianshu.com/p/54902270249d)
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
+- [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(自己总结的Android开源项目及库)
 
 
 ## 知乎上的讨论：
