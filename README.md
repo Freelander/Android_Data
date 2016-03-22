@@ -20,7 +20,7 @@
 - [Android 开发者杂志周刊](#weekly)
 - [Awesome 系列](#awesome)
 - [动画系列](#animate)
-- [Material Design 设计](#material_design)
+- [Material Design 设计](#Material Design 设计)
 - [素材](#material)
 - [开源库收集](#libraies_collect)
 - [设计模式](#design_mode)
@@ -28,7 +28,7 @@
 - [文档](#file)
 - [其它](#other)
 - [知乎上的讨论](#zhihu)
-- [贡献者](#contributors)
+- [贡献者](#贡献者)
 - [License](#license)
 
 ===================================
