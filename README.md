@@ -12,28 +12,28 @@
 
 ## 目录
 
-- [书籍](#book)
-- [开发环境/工具](#tools)
-- [博客](#blog)
-- [社区](#community)
-- [开源项目学习](#project)
-- [Android 开发者杂志周刊](#weekly)
-- [Awesome 系列](#awesome)
-- [动画系列](#animate)
-- [Material Design 设计](#Material Design 设计)
-- [素材](#material)
-- [开源库收集](#libraies_collect)
-- [设计模式](#design_mode)
-- [实践篇](#practice)
-- [文档](#file)
-- [其它](#other)
-- [知乎上的讨论](#zhihu)
+- [书籍](#书籍)
+- [开发环境/工具](#开发环境工具)
+- [博客](#博客)
+- [社区](#社区)
+- [开源项目学习](#开源项目学习)
+- [Android 开发者杂志周刊](#android-开发者杂志周刊)
+- [Awesome 系列](#awesome-系列)
+- [动画系列](#动画系列)
+- [Material Design 设计](#material-design-设计)
+- [素材](#素材)
+- [开源库收集](#开源库收集)
+- [设计模式](#设计模式)
+- [实践篇](#实践篇)
+- [文档](#文档)
+- [其它](#其它)
+- [知乎上的讨论](#知乎上的讨论)
 - [贡献者](#贡献者)
 - [License](#license)
 
-===================================
+=============================================================
 
-## <span id="book">书籍</span>
+## 书籍
 
   书籍名称  | 推荐理由 
   --------- | --------
@@ -45,7 +45,7 @@
 [App 研发录](http://book.douban.com/subject/26649050/) | 本书作者是包建强, 本书是作者多年 App 开发的经验总结, 从App架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.
 [Android 设计模式源码分析](http://book.douban.com/subject/26644935/) | 本书作者是开发技术前线创立者之一 Mr.Simple, 该书从 Android 源码的角度由浅入深地剖析设计模式的运用, 让工程师们把设计与模式重视起来, 提升自己的设计能力与代码质量
 
-## <span id="tools">开发环境/工具</span>
+## 开发环境/工具
 (附上: 由 [@脉脉不得语](http://weibo.com/234959219) 收集维护超多开发工具下载地址 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools), 后五个工具资料在 [stormzhang](http://stormzhang.com/) 博客中找到的,[地址](http://stormzhang.com/android/2015/05/26/android-tools/))
 
  环境/工具 | 简述
@@ -69,7 +69,7 @@
 [LeakCanary](https://github.com/square/leakcanary) | 良心企业Square最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
 
 
-## <span id="blog">博客</span>
+## 博客
 
  博客地址 | 博主信息
  -------- | --------
@@ -85,7 +85,7 @@
 [hi大头鬼hi](http://blog.csdn.net/lzyzsd/) | hi大头鬼hi 是阿里巴巴集团的一名 Android 工程师, 擅长 Android, RxJava, RxAndroid, ReactNative, Node.js, 大前端, 可谓是全栈工程师, 如果你对 RxJava 技术感兴趣, 不妨到他的博客看看, 他写了一系列有关 RxJava 的介绍
 [更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息, 大家可以去看看
 
-## <span id="community">社区</span>
+## 社区
 
  名称 | 简介
  ---- | ----
@@ -96,7 +96,7 @@
 [APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
 [谷歌开发者社区(GDG)](http://chinagdg.org/) | GDG 是 Google Developer Groups 的缩写, 中文名称是谷歌开发者社区
 
-## <span id="project">开源项目学习</span>
+## 开源项目学习
 
  项目名称 | 项目简介 
  -------- | --------
@@ -141,7 +141,7 @@
 [PHPHub-Android](https://github.com/CycloneAxe/phphub-android) | PHPHub Android 客户端, 项目架构使用 nucleus 简化 MVP 架构, API 请求返回数据使用 RxJava 进行处理, 客户端使用了独特的二维码扫码登录, 有兴趣的可以去研究一下
 [Leisure](https://github.com/MummyDing/Leisure) | 闲暇(Leisure)是一款集"知乎日报", "果壳科学人", "新华网新闻"以及"豆瓣图书"于一体的阅读类 Android 应用, 项目里面有多语言切换、夜间模式以及无图模式, 如果你还不知道这些技术怎么实现, 不妨参考一下这个项目
 
-## <span id="weekly">Android 开发者杂志周刊</span>
+## Android 开发者杂志周刊
 
 ( 前五个资料来自 [Drakeet](http://drakeet.me/) 收集整理的, 资料原链接 [地址](http://www.jianshu.com/p/54c4a19ffa68) )
 
@@ -156,7 +156,7 @@
 [干货集中营](http://gank.io/) | 由 [代码家](http://blog.daimajia.com/) 维护更新, 周一到周五每天中午分享, 分享内容有漂亮妹子, Android 干货, iOS 干货, App, 技术以外推荐, 还有休息视频
 [Android Blog 周刊](http://www.androidblog.cn/) | AndroidBlog 是由 [Jomeslu](http://weibo.com/u/2106134235?refer_flag=1001030201_&is_hot=1) 收录的, 目前就职于搜狐, 该周刊分享内容主要有一周国内外热门技术博客, 优秀的类库, 以及一些有趣的新闻, 看了前几期分享的内容质量都是很高的, 因此值得推荐给大家
 
-## <span id="awesome">Awesome 系列</span>
+## Awesome 系列
 
 - [awesome android(1)](https://github.com/snowdream/awesome-android)
 - [awesome_android(2)](https://github.com/JStumpp/awesome-android)
@@ -166,14 +166,14 @@
 - [awesome_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome 系列之终极版](https://github.com/sindresorhus/awesome)
 
-## <span id="animate">动画系列</span>
+## 动画系列
 - [animate](https://github.com/hitherejoe/animate)
 - [awesome-animation](https://github.com/Animatious/awesome-animation)
 - [Material-Animations](https://github.com/lgvalle/Material-Animations)
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
 
 
-## <span id="material_design">Material Design 设计</span>
+## Material Design 设计
 
 - [Material Design 教程](https://www.google.com/design/spec/material-design/introduction.html)
 - [Material Design 教程(中文版)](https://github.com/1sters/material_design_zh_2)
@@ -181,7 +181,7 @@
 - [十大Material Design开源项目](http://www.aplesson.com/?p=650)
 
 
-## <span id="material">素材</span>
+## 素材
 
 - [常用色彩搭配表](http://tool.c7sky.com/webcolor/)
 - [ColorHunt-色彩搭配](http://www.colorhunt.co/)
@@ -190,7 +190,7 @@
 - [App Icon 图标](https://icons8.com/)
 - [Icon Store](https://iconstore.co/)
 
-## <span id="libraies_collect">开源库收集</span>
+## 开源库收集
 
 - [Android Libraries and Resources ](http://alamkanak.github.io/android-libraries-and-resources/)
 - [Android Arsenal ](http://android-arsenal.com/)(一个专门收集 android 开源库的网站, 网站经常更新)
@@ -198,13 +198,13 @@
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时, 也应该了解当中的原理)
 - [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=31)
 
-## <span id="design_mode">设计模式<span>
+## 设计模式
 
 - [java-design-patterns](https://github.com/iluwatar/java-design-patterns#model-view-presenter)
 - [Android源码设计模式分析项目](https://github.com/simple-android-framework-exchange/android_design_patterns_analysis)
 - [Java之美[从菜鸟到高手演变]之设计模式](http://blog.csdn.net/zhangerqing/article/details/8194653)
 
-## <span id="practice">实践篇</span>
+## 实践篇
 
 - [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 - [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
@@ -228,12 +228,12 @@
 - [36个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
 - [收集了大家常用的一些 Android 的模板代码](https://github.com/jiang111/awesome-android-tips)
 
-## <span id="file">文档</span>
+## 文档
 
 - [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
 - [Android 官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)(由胡凯发起对 Google Android 官方培训课程翻译的中文版)
 
-## <span id="other">其它</span>
+## 其它
 
 - [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
@@ -244,7 +244,7 @@
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(自己总结的Android开源项目及库)
 
 
-## <span id="zhihu">知乎上的讨论</span>
+## 知乎上的讨论
 
 - [有哪些 Android 大牛的 blog 值得推荐?](http://www.zhihu.com/question/19775981)
 - [GitHub 上都有哪些值得关注学习的 Android项目?](http://www.zhihu.com/question/23804819)
@@ -259,10 +259,10 @@
 - [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
 - [Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?](https://www.zhihu.com/question/37433825)
 
-## <span id="contributors">贡献者</span>
+## 贡献者
 
 点击[该链接](https://github.com/Freelander/Android_Data/graphs/contributors)查看该项目所有贡献者
 
-## <span id="license">License</span>
+## License
 
 以上内容采用 [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/deed.zh) 进行许可, 转载请注明出处, 版权归本人及所有贡献者所有
