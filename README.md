@@ -189,6 +189,7 @@
 - [Material Design设计模板与素材](http://www.materialup.com/)
 - [App Icon 图标](https://icons8.com/)
 - [Icon Store](https://iconstore.co/)
+- [Material icons](https://design.google.com/icons/)
 
 ## 开源库收集
 
