@@ -242,7 +242,7 @@
 - [每个 Android 开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
 - [Android 开发者网址导航](http://www.jianshu.com/p/54902270249d)
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
-- [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(自己总结的Android开源项目及库)
+- [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(TimLiu 总结的 Android 开源项目及库)
 
 
 ## 知乎上的讨论
