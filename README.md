@@ -40,9 +40,9 @@
 [Thinking In Java 中文版](http://www.amazon.cn/Java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3-%E5%9F%83%E5%8F%B2%E5%B0%94/dp/B0011F7WU4/ref=sr_1_1?ie=UTF8&qid=1428138267&sr=8-1&keywords=java%E7%BC%96%E7%A8%8B%E6%80%9D%E6%83%B3) | 学习 Android 开发, 首先需要 Java 基础, 这里推荐 Thinking In Java, Thinking In Java 是 Java 的经典书籍, 是学习 Java 语言必备书籍
 [第一行代码](http://www.amazon.cn/%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81-Android-%E9%83%AD%E9%9C%96/dp/B00LVHTI9U/ref=sr_1_1?ie=UTF8&qid=1428138432&sr=8-1&keywords=%E7%AC%AC%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E2%80%94%E2%80%94android+%E9%83%AD%E9%9C%96)   | 郭霖大神的杰作, 郭神在CSDN中的博客文章非常不错, 书我看了, 非常适合新手, 里面的内容非常棒, 建议结合郭神博客文章一起来学习 
 [疯狂Android讲义第三版](http://item.jd.com/11689014.html) | 作者是李刚, 这本书是基于 Android 5.0 来讲的, 我看过第二版, 这本书给我第一感觉就是很厚, 但里面内容写的还是很详细的, 代码很多, 可以跟着代码一步步敲 
-[Android群英传](http://www.amazon.cn/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0-%E5%BE%90%E5%AE%9C%E7%94%9F/dp/B01481RAA4/ref=sr_1_1?m=A1AJ19PSB66TGU&s=books&ie=UTF8&qid=1442198757&sr=1-1&keywords=android%E7%BE%A4%E8%8B%B1%E4%BC%A0) | 本书作者@Tomcat的猫, 曾就职于上海TCL通讯, 从事Alcatel（阿尔卡特）Android手机系统的定制工作, 活跃于CSDN, 目前就职于上海沪江网Android开发部RD项目组, 负责沪江App的功能预研
-[Android开发艺术探索](http://product.china-pub.com/4806147) | 由@任玉刚Coder所著, 是一本Android进阶类书籍, 采用理论、源码和实践相结合的方式来阐述高水准的Android应用开发要点. 本书从三个方面来组织内容: 第一, 介绍Android开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.
-[App 研发录](http://book.douban.com/subject/26649050/) | 本书作者是包建强, 本书是作者多年 App 开发的经验总结, 从App架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.
+[Android群英传](http://www.amazon.cn/Android%E7%BE%A4%E8%8B%B1%E4%BC%A0-%E5%BE%90%E5%AE%9C%E7%94%9F/dp/B01481RAA4/ref=sr_1_1?m=A1AJ19PSB66TGU&s=books&ie=UTF8&qid=1442198757&sr=1-1&keywords=android%E7%BE%A4%E8%8B%B1%E4%BC%A0) | 本书作者 @Tomcat 的猫, 曾就职于上海 TCL 通讯, 从事 Alcatel(阿尔卡特) Android 手机系统的定制工作, 活跃于 CSDN, 目前就职于上海沪江网 Android 开发部RD项目组, 负责沪江 App 的功能预研
+[Android开发艺术探索](http://product.china-pub.com/4806147) | 由@任玉刚Coder所著, 是一本 Android 进阶类书籍, 采用理论, 源码和实践相结合的方式来阐述高水准的 Android 应用开发要点. 本书从三个方面来组织内容: 第一, 介绍 Android 开发者不容易掌握的一些知识点: 第二,结合Android源代码和应用层开发过程, 融会贯通, 介绍一些比较深入的知识点: 第三, 介绍一些核心技术和Android的性能优化思想.
+[App 研发录](http://book.douban.com/subject/26649050/) | 本书作者是包建强, 本书是作者多年 App 开发的经验总结, 从 App 架构的角度, 重点总结了 Android 应用开发中常见的实用技巧和疑难问题解决方法, 为打造高质量 App 提供有价值的实践指导, 迅速提升应用开发能力和解决疑难问题的能力. 这本书非常有利于 Android 开发者进阶.
 [Android 设计模式源码分析](http://book.douban.com/subject/26644935/) | 本书作者是开发技术前线创立者之一 Mr.Simple, 该书从 Android 源码的角度由浅入深地剖析设计模式的运用, 让工程师们把设计与模式重视起来, 提升自己的设计能力与代码质量
 
 ## 开发环境/工具
@@ -50,17 +50,17 @@
 
  环境/工具 | 简述
  -------- | --------
-[Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前github上面的绝大多数开源项目都是使用Android Studio工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了
-[Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的Android模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是Android Studio里面都有Genymotion插件
-[jadx](https://github.com/skylot/jadx) | 一个Android反编译神器,不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar),这个反编译器生成代码的 try/catch 次数更少, View也不再是数字id了,可读性更高
+[Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了
+[Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是 Android Studio 里面都有 Genymotion 插件
+[jadx](https://github.com/skylot/jadx) | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar), 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字id了, 可读性更高
 [android-selector](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成 Selector Drawable 的插件
 [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) | Gradle 依赖自动补全插件
-[Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv是一款免费 APK 分析软件,对你感兴趣的APP分析看看它们都用了些什么, 对你学习借鉴有一定帮助
+[Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv 是一款免费 APK 分析软件,对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构
 [CodeGlance](https://github.com/Vektah/CodeGlance) | 在编辑代码最右侧, 显示一块代码小地图
 [Statistic](https://plugins.jetbrains.com/plugin/?idea&id=4509) | 统计整个项目行数的插件, 这可表示我们日日夜夜辛辛苦苦必备插件
 [idea-markdown](https://github.com/nicoulaj/idea-markdown) | 在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件
-[Stetho](http://facebook.github.io/stetho/) | Stetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
+[Stetho](http://facebook.github.io/stetho/) | Stetho 是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp 的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用 adb, 也不需要 root 你的设备
 [ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包、方法数量、类、字符串、使用的 NativeLibrary 等
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
@@ -73,15 +73,15 @@
 
  博客地址 | 博主信息
  -------- | --------
-[Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注Android最新的进展与最权威的博客(需翻墙)
-[胡凯](http://hukai.me/) | 目前就职于腾讯上海从事Android开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习Android应用开发的绝佳资料
+[Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注 Android 最新的进展与最权威的博客(需翻墙)
+[胡凯](http://hukai.me/) | 目前就职于腾讯上海从事 Android 开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习 Android 应用开发的绝佳资料
 [Trinea](http://www.trinea.cn/) | 目前在滴滴负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://p.codekk.com)
 [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
-[代码家](http://blog.daimajia.com/) | 90后Android大神, 称作库达人, 博主收集了很多Android开源库, 博主自己也做了很多开源库, 非常值得学习
+[代码家](http://blog.daimajia.com/) | 90后 Android 大神, 称作库达人, 博主收集了很多 Android 开源库, 博主自己也做了很多开源库, 非常值得学习
 [stormzhang](http://stormzhang.com/) | 博主是上海薄荷科技开发主管, 他的博客分享了他从编程白痴到自学 Android 一路走过的经验, 写了一篇 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 帮助了无数人, 里面还有很多好的文章非常适合新手入门, 并且是微信公众号「AndroidDeveloper」的运营者
-[light_sky](http://www.lightskystreet.com/) | Android开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于GitHub、G+、Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
+[light_sky](http://www.lightskystreet.com/) | Android 开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于 GitHub, G+, Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
 [张鸿洋](http://blog.csdn.net/lmj623565791/) | 张鴻洋是 CSDN 博客专家, 博主在 CSDN 所发布的每一篇文章都是干货, 都很值得大家去学习
-[张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发，关注移动支付业务
+[张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发, 关注移动支付业务
 [hi大头鬼hi](http://blog.csdn.net/lzyzsd/) | hi大头鬼hi 是阿里巴巴集团的一名 Android 工程师, 擅长 Android, RxJava, RxAndroid, ReactNative, Node.js, 大前端, 可谓是全栈工程师, 如果你对 RxJava 技术感兴趣, 不妨到他的博客看看, 他写了一系列有关 RxJava 的介绍
 [更多](https://github.com/android-cn/android-dev-cn) | 这里面收集了很多国内外开发者的信息, 大家可以去看看
 
