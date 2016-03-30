@@ -107,7 +107,7 @@
 [Talon-for-Twitter](https://github.com/klinker24/Talon-for-Twitter) | 一个完整版 Twitter 第三方客户端, 属于顶级水平, 而且在源代码 100% 开源, 学习资源让你取之不尽
 [Anime Taste](https://github.com/daimajia/AnimeTaste) | 开发者是代码家为 AnimeTaste 全球动画精选开发的 Android 客户端, 国内很少见的精彩而且开源的 APP, 获得豌豆荚110期设计奖
 [EverMemo](https://github.com/daimajia/EverMemo) | 开发者是代码家, EverMemo 是一款让你快速记录与分享灵感的随身便签, 极简的界面与卡片式布局, 让你记录与查找便签更有效率
-[9GAG](https://github.com/stormzhang/9GAG) | 开发者是stormzhang的博主,这个开源项目教你使用Studio,Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端
+[9GAG](https://github.com/stormzhang/9GAG) | 开发者是 stormzhang 博主,这个开源项目教你使用 Studio, Gradle 以及一些流行的开源库快速开发一个不错的 Android 客户端
 [MIUI 便签](https://github.com/MiCode/Notes) | MiCode 便签是小米便签的社区开源版, 由 MIUI 团队（ww.miui.com）发起并贡献第一批代码, 遵循 NOTICE 文件所描述的开源协议
 [贝壳单词](https://github.com/drakeet/Seashell-app) | 开发者是许晓峰(Drakeet), 获得豌豆荚设计奖, 这个是初期版本, 新版没有开源, 但是在博主的博客当中将一些新版的内容都剥离出来写成了文章,可以去学习一下
 [Muzei Live Wallpaper](https://github.com/romannurik/muzei) | 开发者是 Ian Lake , 就职于 Google, 这款是定时更换桌面精美壁纸 App
@@ -120,18 +120,18 @@
 [Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
 [Coding](https://coding.net/u/coding/p/Coding-Android/git) | Coding 类似于 github 一个代码托管平台, 这个是 Coding 的 Android 版客户端
 [ZXing](https://github.com/zxing/zxing) | 二维码扫描工具,市场上许多应用的二维码扫描工具都是从这个修改得到的
-[photup](https://github.com/chrisbanes/photup) | 编辑机批量上传照片到facebook上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译
+[photup](https://github.com/chrisbanes/photup) | 编辑机批量上传照片到 facebook 上,代码分包合理,很棒,不过这个项目依赖的开源项目比较多, 比较难编译
 [todo.txt-android](https://github.com/ginatrapani/todo.txt-android) | todo.txt 官方 Android 应用, 一个极简的将待办事件记录在 .txt 文件中
 [扫扫图书](https://github.com/JayFang1993/ScanBook) | 一个让你懂得如何去选择一本书的 APP, 具有扫描搜索查询图书的信息功能
 [ChaseWhisplyProject](https://github.com/tvbarthel/ChaseWhisplyProject) | 开启摄像头在你所在位置寻找鬼魂, 进行打鬼游戏
-[AntennaPod](https://github.com/AntennaPod/AntennaPod) | AntennaPod 是一个自由、开源的播客客户端, 支持Atom和RSS Feed
+[AntennaPod](https://github.com/AntennaPod/AntennaPod) | AntennaPod 是一个自由, 开源的播客客户端, 支持 Atom 和 RSS Feed
 [干柴](https://github.com/openproject/AndroidDigest) | 开发者是冯建, 一个专注收集 android 相关干货(文摘,名博,github等等)资源 App
 [Hacker News](https://github.com/manmal/hn-android) | 一个查看黑客新闻报道和评论的 App
 [proxydroid](https://github.com/madeye/proxydroid) | ProxyDroid 是一个帮助你在你的 Android 设备上设置代理 (HTTP / SOCKS4 / SOCKS5)
 [AliGesture](https://git.oschina.net/way/AliGesture) | Android平台手势识别应用, 简单的手势就可以进入预置的应用, 方便快捷
 [指读](https://coding.net/u/youzi/p/Zhidu-Android/git/tree/master) | 指读顾名思义就是用手指去阅读浩瀚的书海
-[KJ 音乐](https://github.com/KJFrame/KJMusic) | 开发者是[张涛](http://blog.kymjs.com/about/), 快捷音乐使用到[KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ账号的一键登录
-[哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
+[KJ 音乐](https://github.com/KJFrame/KJMusic) | 开发者是[张涛](http://blog.kymjs.com/about/), 快捷音乐使用到[KJFrameForAndroid](https://github.com/kymjs/KJFrameForAndroid)开发框架, 拥有界面绚丽, 操作简单, 播放手机本地音乐, 在线收听音乐等功能, 还支持: 新浪微博, 百度账号, QQ 账号的一键登录
+[哎嘛](http://git.oschina.net/tonlin/android-app) | OSCHINA 第三方客户端, 这个版本界面比官方版本界面好看多了, 使用的是 Material Design, 界面看上去非常清爽舒服
 [码厩](http://git.oschina.net/wlemuel/Cotable/tree/master/) | 博客园第三方客户端, 使用到缓存技术, 当你打开一次之后的博客内容, 会自动保存到设备中, 下次打开阅读同一文章时不需要再利用网络加载, 大家如果想为自己 App 搞缓存的, 可以研究一下该 App 是如何实现的喔
 [cnBeta 第三方阅读器](http://git.oschina.net/ywwxhz/cnBeta-reader) | 该 App 是 cnBeta(中文业界资讯站) 第三方阅读客户端, 界面也是使用 Material Design, 还加上一些动画效果, 让人阅读文章起来不会感觉枯燥, 值得去研究学习一下
 [BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) | BlackLight是由纸飞机开发团队开发的一款Android上的新浪微博第三方轻量级客户端
@@ -165,6 +165,7 @@
 - [awesome_java](https://github.com/akullpp/awesome-java)
 - [awesome_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome 系列之终极版](https://github.com/sindresorhus/awesome)
+- [android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome)
 
 ## 动画系列
 - [animate](https://github.com/hitherejoe/animate)
@@ -212,17 +213,17 @@
 - [Android 屏幕适配全攻略](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
 - [给半新人的app开发指南](http://www.hamberluo.cn/2015/04/27/semi-android-newer)
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
-- [Android开发人员应避免的10个误区](http://www.imooc.com/article/1287)
-- [Java反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
-- [Android内存优化之OOM](http://www.csdn.net/article/2015-09-18/2825737/1)
+- [Android 开发人员应避免的10个误区](http://www.imooc.com/article/1287)
+- [Java 反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
+- [Android 内存优化之 OOM](http://www.csdn.net/article/2015-09-18/2825737/1)
 - [Android 命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
-- [Adapter优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
+- [Adapter 优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
 - [git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
 - [最全 Android ADB Shell](http://adbshell.com/)
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
-- [创建安卓app的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
+- [创建安卓 app 的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
 - [Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
 - [Android 性能优化总结](http://www.trinea.cn/android/performance/)
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
@@ -254,7 +255,7 @@
 - [Android开发中, 有哪些让你觉得相见恨晚的方法,类或接口?](http://www.zhihu.com/question/33636939)
 - [Android Studio有哪些非常好用的插件?](https://www.zhihu.com/question/28527388)
 - [Android 开发有哪些新技术出现?](https://www.zhihu.com/question/32037895)
-- [有哪些优秀的 Android 应用开源项目、特效、设计资料推荐?](https://www.zhihu.com/question/19804692)
+- [有哪些优秀的 Android 应用开源项目, 特效, 设计资料推荐?](https://www.zhihu.com/question/19804692)
 - [有没有适合 Android 开发初学者的 App 源码推荐?](https://www.zhihu.com/question/26687642)
 - [Android有什么好的技术点适合进行技术分享?](https://www.zhihu.com/question/29939631)
 - [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
