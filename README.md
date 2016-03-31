@@ -191,6 +191,7 @@
 - [App Icon 图标](https://icons8.com/)
 - [Icon Store](https://iconstore.co/)
 - [Material icons](https://design.google.com/icons/)
+- [Iconfont](http://iconfont.cn/)
 
 ## 开源库收集
 
