@@ -210,6 +210,7 @@
 ## 实践篇
 
 - [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
+- [Android 开发最佳实践 ](http://hukai.me/android-dev-patterns/)(来自[胡凯](http://hukai.me/)总结)
 - [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
 - [Android 屏幕适配全攻略](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
 - [给半新人的app开发指南](http://www.hamberluo.cn/2015/04/27/semi-android-newer)
