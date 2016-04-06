@@ -114,7 +114,7 @@
 [四次元-新浪微博客户端](https://github.com/qii/weiciyuan) | 一个仿新浪微博客户端 App, 基本都含有新浪微博的功能, 开源团队写了一份 wiki 文档, 可以去学习一下该 App 是如何实现的
 [知乎专栏](https://github.com/bxbxbai/ZhuanLan) | 开发者是白瓦力, 项目结构清晰, 代码分包合理, 很棒. 很适合新手去学习如何搭建一个 App 结构, 熟悉开发一个完整 App 的流程
 [eoe 客户端](https://github.com/eoecn/android-app) | eoe 社区Android客户端
-[oschina](http://git.oschina.net/oschina/android-app) | 开源中国社区 Android 客户端, 此开源的是 v1 版本, v2 版本将在2015年年中开源
+[oschina](http://git.oschina.net/oschina/android-app) | 开源中国社区 Android 客户端, 此开源的是 v1 版本, v2 版本将在 2015 年年中开源
 [v2ex](https://github.com/kyze8439690/v2ex-daily-android) | 开发者是[杨辉](http://yanghui.name/about/), 这个是 v2ex Android 第三方客户端
 [Tweet Lanes](https://github.com/chrislacy/TweetLanes) | 功能比较完整的 Twitter 客户端
 [Financius](https://github.com/mvarnagiris/financius-public) | 一款简单易用个人理财 Android 程序
@@ -215,7 +215,7 @@
 - [Android 屏幕适配全攻略](http://blog.csdn.net/zhaokaiqiang1992/article/details/45419023)
 - [给半新人的app开发指南](http://www.hamberluo.cn/2015/04/27/semi-android-newer)
 - [Android 一些重要知识点解析整理](https://github.com/FX-Max/Point-of-Android)
-- [Android 开发人员应避免的10个误区](http://www.imooc.com/article/1287)
+- [Android 开发人员应避免的 10 个误区](http://www.imooc.com/article/1287)
 - [Java 反射最佳实践](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.9/reflect/reflect.md)
 - [Android 内存优化之 OOM](http://www.csdn.net/article/2015-09-18/2825737/1)
 - [Android 命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
@@ -225,12 +225,13 @@
 - [最全 Android ADB Shell](http://adbshell.com/)
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
-- [创建安卓 app 的30个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
+- [创建安卓 app 的 30 个经验教训](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0218/3978.html)
 - [Android 三大图片缓存原理、特性对比](http://www.trinea.cn/android/android-image-cache-compare/)
 - [Android 性能优化总结](http://www.trinea.cn/android/performance/)
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
-- [36个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
+- [36 个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
 - [收集了大家常用的一些 Android 的模板代码](https://github.com/jiang111/awesome-android-tips)
+- [Android 技术积累: 开发规范](http://keeganlee.me/post/android/20150709) | 
 
 ## 文档
 
@@ -239,7 +240,7 @@
 
 ## 其它
 
-- [10个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
+- [10 个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
 - [AndroidCat 安卓书签网](https://github.com/ColorfulCat/AndroidGuide)
 - [每个 Android 开发者都应该了解的资源列表](http://www.jianshu.com/p/e961f1633d7a)
