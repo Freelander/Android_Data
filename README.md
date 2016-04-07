@@ -231,7 +231,7 @@
 - [Android 实用代码片段整合 ](http://www.eoeandroid.com/thread-570919-1-1.html)
 - [36 个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
 - [收集了大家常用的一些 Android 的模板代码](https://github.com/jiang111/awesome-android-tips)
-- [Android 技术积累: 开发规范](http://keeganlee.me/post/android/20150709) | 
+- [Android 技术积累: 开发规范](http://keeganlee.me/post/android/20150709) 
 
 ## 文档
 
