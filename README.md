@@ -232,6 +232,8 @@
 - [36 个 Android 开发常用代码片段](http://www.phpxs.com/code/1001775)
 - [收集了大家常用的一些 Android 的模板代码](https://github.com/jiang111/awesome-android-tips)
 - [Android 技术积累: 开发规范](http://keeganlee.me/post/android/20150709) 
+- [App 架构设计经验谈](http://keeganlee.me/post/architecture/20160114)
+- [关于 Android 开发的 40 条优化建议](http://blog.csdn.net/yyh352091626/article/details/50957851)
 
 ## 文档
 
