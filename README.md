@@ -200,6 +200,7 @@
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时, 也应该了解当中的原理)
 - [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=31)
+- [android-gems](http://www.android-gems.com/)(国内外很多开发者都在这里上传他们最新的项目, 还带有 apk 下载)
 
 ## 设计模式
 
@@ -234,6 +235,7 @@
 - [Android 技术积累: 开发规范](http://keeganlee.me/post/android/20150709) 
 - [App 架构设计经验谈](http://keeganlee.me/post/architecture/20160114)
 - [关于 Android 开发的 40 条优化建议](http://blog.csdn.net/yyh352091626/article/details/50957851)
+- [如何提高安卓代码的质量和语法](http://gold.xitu.io/entry/56cd6ebb99a6ce005a2887e3)
 
 ## 文档
 
