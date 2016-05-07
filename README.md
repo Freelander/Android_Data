@@ -6,7 +6,7 @@
 
  这份资料我会不断的更新完善, 同时也欢迎更多具有丰富经验的Android开发者将自己常用的工具、学习资料、学习心得等分享上来, 我将定期筛选合并, 该份学习资料有不足的地方, 也请指出, 我会谦虚接受改正, 希望我能与大家一起来学习, 谢谢.
 
- **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/u/2719372027)联系我**
+ **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
 >感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持
 
@@ -62,6 +62,8 @@
 [idea-markdown](https://github.com/nicoulaj/idea-markdown) | 在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件
 [Stetho](http://facebook.github.io/stetho/) | Stetho 是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp 的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用 adb, 也不需要 root 你的设备
 [ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包、方法数量、类、字符串、使用的 NativeLibrary 等
+[AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | 使用 WiFi 连接而不需要 USB 连接 Android 设备达到安装, 运行, 调试应用的目的
+[checkstyle-idea](https://github.com/jshiell/checkstyle-idea) | Checkstyle-idea 是一款检查自己写的代码是否符合规范的插件, 该插件是根据 checkstyle.xml 文件来检查的, checkstyle.xml 文件可以由自己自己定义, 也可以使用一些大公司定义的规范, 如果不懂得如何定义, 可以查看 [官方文档](http://checkstyle.sourceforge.net/checks.html), 该插件的详细介绍以及使用, 可以看一下咕咚大侠写的 [文章](http://gudong.name/2016/04/07/checkstyle.html)
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
@@ -245,7 +247,7 @@
 - [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
 - [Android 官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)(由胡凯发起对 Google Android 官方培训课程翻译的中文版)
 
-## 其它
+## 其它学习资料收集
 
 - [10 个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
@@ -254,6 +256,7 @@
 - [Android 开发者网址导航](http://www.jianshu.com/p/54902270249d)
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(TimLiu 总结的 Android 开源项目及库)
+- [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)
 
 
 ## 知乎上的讨论
