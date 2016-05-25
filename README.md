@@ -26,7 +26,7 @@
 - [设计模式](#设计模式)
 - [实践篇](#实践篇)
 - [文档](#文档)
-- [其它](#其它)
+- [其它资料收集](#其它资料收集)
 - [知乎上的讨论](#知乎上的讨论)
 - [贡献者](#贡献者)
 - [License](#license)
@@ -64,6 +64,7 @@
 [ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包、方法数量、类、字符串、使用的 NativeLibrary 等
 [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | 使用 WiFi 连接而不需要 USB 连接 Android 设备达到安装, 运行, 调试应用的目的
 [checkstyle-idea](https://github.com/jshiell/checkstyle-idea) | Checkstyle-idea 是一款检查自己写的代码是否符合规范的插件, 该插件是根据 checkstyle.xml 文件来检查的, checkstyle.xml 文件可以由自己自己定义, 也可以使用一些大公司定义的规范, 如果不懂得如何定义, 可以查看 [官方文档](http://checkstyle.sourceforge.net/checks.html), 该插件的详细介绍以及使用, 可以看一下咕咚大侠写的 [文章](http://gudong.name/2016/04/07/checkstyle.html)
+[ECTranslation](https://github.com/Skykai521/ECTranslation) | ECTranslation 是 Android Studio 开发工具的一个翻译插件, 可以将英文翻译为中文, 英语基础差的童鞋装上它就可以轻松阅读 Android 源码啦
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
 [GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
@@ -241,13 +242,14 @@
 - [关于 Android 开发的 40 条优化建议](http://blog.csdn.net/yyh352091626/article/details/50957851)
 - [如何提高安卓代码的质量和语法](http://gold.xitu.io/entry/56cd6ebb99a6ce005a2887e3)
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
+- [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
 
 ## 文档
 
 - [Android 官方 API 文档](http://developer.android.com/reference/android/package-summary.html)(网站需要翻墙，不翻墙可以[下载](http://pan.baidu.com/s/1dDu3LVb)离线文件)
 - [Android 官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)(由胡凯发起对 Google Android 官方培训课程翻译的中文版)
 
-## 其它学习资料收集
+## 其它资料收集
 
 - [10 个很棒的学习 Android 开发的网站](http://www.eoeandroid.com/forum.php?mod=viewthread&tid=571335&highlight=10%E4%B8%AA%E5%BE%88%E6%A3%92)
 - [Android 开发, 你应该知道的学习资源](http://android.jobbole.com/80815/)
