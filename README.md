@@ -243,6 +243,7 @@
 - [如何提高安卓代码的质量和语法](http://gold.xitu.io/entry/56cd6ebb99a6ce005a2887e3)
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
 - [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
+- [如何自学 Android](http://www.jianshu.com/p/28111d29eee4)
 
 ## 文档
 
