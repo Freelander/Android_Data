@@ -96,8 +96,7 @@
 [StackOverFlow](http://stackoverflow.com/) | IT 界的问答社区, 你开发当中所遇到的问题基本上都能在这里能寻找到你想要的答案
 [SegmentFault](https://segmentfault.com/t/android) | SegmentFault 是一个专注于解决编程问题, 提高开发技能的社区
 [CSDN](http://blog.csdn.net/mobile/newest.html) | CSDN 是全球最大中文IT技术社区
-[eoe 移动开发者社区](http://www.eoeandroid.com/forum.php) | 让移动开发更简单, 做最棒的开发者社区
-[APKBUS 安卓巴士](http://www.apkbus.com/) | APKBUS 安卓巴士是一家服务于中国移动开发者学习与成长需要的综合社区服务平台
+[稀土掘金](http://gold.xitu.io/explore/android) | 高质量的技术分享社区
 [谷歌开发者社区(GDG)](http://chinagdg.org/) | GDG 是 Google Developer Groups 的缩写, 中文名称是谷歌开发者社区
 
 ## 开源项目学习
