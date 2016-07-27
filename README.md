@@ -25,6 +25,7 @@
 - [开源库收集](#开源库收集)
 - [设计模式](#设计模式)
 - [实践篇](#实践篇)
+- [Git 教程](#git-教程)
 - [文档](#文档)
 - [其它资料收集](#其它资料收集)
 - [知乎上的讨论](#知乎上的讨论)
@@ -229,7 +230,6 @@
 - [Android 命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
 - [Adapter 优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
-- [git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
 - [最全 Android ADB Shell](http://adbshell.com/)
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
@@ -247,6 +247,15 @@
 - [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
 - [如何自学 Android](http://www.jianshu.com/p/28111d29eee4)
 - [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+
+## Git 教程
+
+新手看完这几份教程基本上知道怎么使用 Git 了
+
+- [GitHub 团队美女写的一套 Git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
+- [ProGit 中文版](https://git-scm.com/book/zh/v2)
+- [廖雪峰的 Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [Git 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 ## 文档
 
