@@ -25,6 +25,7 @@
 - [开源库收集](#开源库收集)
 - [设计模式](#设计模式)
 - [实践篇](#实践篇)
+- [Git 教程](#git-教程)
 - [文档](#文档)
 - [其它资料收集](#其它资料收集)
 - [知乎上的讨论](#知乎上的讨论)
@@ -51,26 +52,28 @@
  环境/工具 | 简述
  -------- | --------
 [Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了
-[Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用Eclipse还是 Android Studio 里面都有 Genymotion 插件
-[jadx](https://github.com/skylot/jadx) | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar), 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字id了, 可读性更高
+[Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用 Eclipse 还是 Android Studio 里面都有 Genymotion 插件
+[jadx](https://github.com/skylot/jadx) | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar), 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高
 [android-selector](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成 Selector Drawable 的插件
 [GradleDependenciesHelperPlugin](https://github.com/ligi/GradleDependenciesHelperPlugin) | Gradle 依赖自动补全插件
-[Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv 是一款免费 APK 分析软件,对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助
+[Smali Viewer](http://blog.avlyun.com/show/%E3%80%8Asv%E7%94%A8%E6%88%B7%E6%8C%87%E5%8D%97%E3%80%8B/) | sv 是一款免费 APK 分析软件, 对你感兴趣的 APP 分析看看它们都用了些什么, 对你学习借鉴有一定帮助
 [folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | layout 文件夹里的布局文件一般很长很长没有目录, 这个插件就可以把 layout 分好层级结构, 类似 src 下目录结构
 [CodeGlance](https://github.com/Vektah/CodeGlance) | 在编辑代码最右侧, 显示一块代码小地图
 [Statistic](https://plugins.jetbrains.com/plugin/?idea&id=4509) | 统计整个项目行数的插件, 这可表示我们日日夜夜辛辛苦苦必备插件
 [idea-markdown](https://github.com/nicoulaj/idea-markdown) | 在 AS 中编写 Markdown 文件, 可以直接预览网页显示效果, 对于你经常编写 Markdown 文件的你值得拥有这个插件
-[Stetho](http://facebook.github.io/stetho/) | Stetho 是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp 的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用 adb, 也不需要 root 你的设备
-[ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包、方法数量、类、字符串、使用的 NativeLibrary 等
+[Stetho](http://facebook.github.io/stetho/) | Stetho 是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools 查看 App 的布局, 网络请求(仅限使用 Volley, okhttp 的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用 adb, 也不需要 root 你的设备
+[ClassyShark](https://github.com/google/android-classyshark) | ClassyShark 是 Google 发布的一款可以查看 Android 可执行文件的浏览工具, 支持.dex, .aar, .so, .apk, .jar, .class, .xml 等文件格式, 分析里面的内容包括 classes.dex 文件, 包方法数量, 类, 字符串, 使用的 NativeLibrary 等
 [AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | 使用 WiFi 连接而不需要 USB 连接 Android 设备达到安装, 运行, 调试应用的目的
 [checkstyle-idea](https://github.com/jshiell/checkstyle-idea) | Checkstyle-idea 是一款检查自己写的代码是否符合规范的插件, 该插件是根据 checkstyle.xml 文件来检查的, checkstyle.xml 文件可以由自己自己定义, 也可以使用一些大公司定义的规范, 如果不懂得如何定义, 可以查看 [官方文档](http://checkstyle.sourceforge.net/checks.html), 该插件的详细介绍以及使用, 可以看一下咕咚大侠写的 [文章](http://gudong.name/2016/04/07/checkstyle.html)
 [ECTranslation](https://github.com/Skykai521/ECTranslation) | ECTranslation 是 Android Studio 开发工具的一个翻译插件, 可以将英文翻译为中文, 英语基础差的童鞋装上它就可以轻松阅读 Android 源码啦
 [Android Methods Count](https://plugins.jetbrains.com/plugin/8076?pr=androidstudio) | 统计 Android 依赖库中方法的总个数, 避免应用方法数超过 65K 问题
+[AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) | 可用于将项目中的 string 资源自动翻译为其他语言的插件, 其翻译支持使用 Microsoft Translator 或 Google Translation
 [ButterKnife Zelezny](https://github.com/avast/android-butterknife-zelezny) | ButterKnife 生成器, 使用起来非常简单方便, 为你简写了很多 findViewId 代码, 如果你不了解 ButterKnife 的可以到[这里](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)看看
 [SelectorChapek](https://github.com/inmite/android-selector-chapek) | 设计师给我们提供好了各种资源, 每个按钮都要写一个selector是不是很麻烦? 这么这个插件就为解决这个问题而生, 你只需要做的是告诉设计师们按照规范命名就好了, 其他一键搞定
-[GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端api都以json数据格式返回, 而客户端需要根据api接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
-[ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现Serializable接口和Parcelable接口, 但在Android中是推荐使用Parcelable, 只不过我们这种方式要比Serializable方式要繁琐，那么有了这个插件一切就ok了
-[LeakCanary](https://github.com/square/leakcanary) | 良心企业Square最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+[GsonFormat](https://github.com/zzz40500/GsonFormat) | 现在大多数服务端 api 都以 json 数据格式返回, 而客户端需要根据 api 接口生成相应的实体类, 这个插件把这个过程自动化了, 赶紧使用起来吧
+[ParcelableGenerator](https://github.com/mcharmas/android-parcelable-intellij-plugin) | Android中的序列化有两种方式, 分别是实现 Serializable 接口和 Parcelable 接口, 但在 Android 中是推荐使用 Parcelable, 只不过我们这种方式要比Serializable方式要繁琐, 那么有了这个插件一切就ok了
+[LeakCanary](https://github.com/square/leakcanary) | 良心企业 Square 最近刚开源的一个非常有用的工具, 强烈推荐, 帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来更简单方便, 而且我们团队第一时间使用帮助我们发现了不少问题, 英文不好的这里有雷锋同志翻译的中文版 [LeakCanary 中文使用说明](http://www.liaohuqiu.net/cn/posts/leak-canary-read-me/)
+[更多](https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/) | 该作者收集整理了 40 个插件, 可以说是史上最全的了
 
 
 ## 博客
@@ -78,11 +81,11 @@
  博客地址 | 博主信息
  -------- | --------
 [Android Developers Blog](http://android-developers.blogspot.com/) | Android官网博客, 在上面可以关注 Android 最新的进展与最权威的博客(需翻墙)
+[stormzhang](http://stormzhang.com/) | 博主是上海薄荷科技开发主管, 他的博客分享了他从编程白痴到自学 Android 一路走过的经验, 写了一篇 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 帮助了无数人, 里面还有很多好的文章非常适合新手入门, 并且是微信公众号「AndroidDeveloper」的运营者, 可以算是 Android 界最有影响力的公众号之一了, 强烈推荐关注
 [胡凯](http://hukai.me/) | 目前就职于腾讯上海从事 Android 开发的工作, 发起 Google Android 官方培训课程中文版翻译, 这课程是学习 Android 应用开发的绝佳资料
 [Trinea](http://www.trinea.cn/) | 目前在滴滴负责 Android 客户端技术, 他是开源库项目收集达人, 你想要的开源库[上面](https://github.com/Trinea)都有, 并且发起 Android 开源项目源码解析, 在使用开源库的同时也可以知道其中原理, 大家可以去关注一下, [地址](http://p.codekk.com)
 [郭霖](http://blog.csdn.net/guolin_blog) | 博主郭霖是大神, 人人都称"郭神", 是第一行代码的作者, 博主在 CSDN 上所写的文章都非常值得学习
 [代码家](http://blog.daimajia.com/) | 90后 Android 大神, 称作库达人, 博主收集了很多 Android 开源库, 博主自己也做了很多开源库, 非常值得学习
-[stormzhang](http://stormzhang.com/) | 博主是上海薄荷科技开发主管, 他的博客分享了他从编程白痴到自学 Android 一路走过的经验, 写了一篇 [Android学习之路](http://stormzhang.com/android/2014/07/07/learn-android-from-rookie/) 帮助了无数人, 里面还有很多好的文章非常适合新手入门, 并且是微信公众号「AndroidDeveloper」的运营者
 [light_sky](http://www.lightskystreet.com/) | Android 开发工程师, 目前在北京工作. Google big fan, 热爱开源, 热爱分享, 活跃于 GitHub, G+, Twitter, 捕捉Android最新资讯和技术, ViewPagerIndicator 开源项目分析者
 [张鸿洋](http://blog.csdn.net/lmj623565791/) | 张鴻洋是 CSDN 博客专家, 博主在 CSDN 所发布的每一篇文章都是干货, 都很值得大家去学习
 [张兴业](http://blog.csdn.net/xyz_lmn) | 张兴业同样也是 CSDN 博客专家, 博主专注移动互联网开发, 关注移动支付业务
@@ -227,7 +230,6 @@
 - [Android 命名规范](http://blog.csdn.net/vipzjyno1/article/details/23542617)
 - [Adapter 优化方案的探索](https://github.com/tianzhijiexian/Android-Best-Practices/blob/master/2015.10/adapter/adapter.md)
 - [Android-Tips](https://github.com/tangqi92/Android-Tips)
-- [git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
 - [最全 Android ADB Shell](http://adbshell.com/)
 - [AndroidNote](https://github.com/CharonChui/AndroidNote)
 - [Android 常用工具类](https://github.com/l123456789jy/Lazy)
@@ -244,6 +246,16 @@
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
 - [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
 - [如何自学 Android](http://www.jianshu.com/p/28111d29eee4)
+- [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+
+## Git 教程
+
+新手看完这几份教程基本上知道怎么使用 Git 了
+
+- [GitHub 团队美女写的一套 Git 使用教程](http://jlord.us/git-it/challenges/get_git.html)
+- [ProGit 中文版](https://git-scm.com/book/zh/v2)
+- [廖雪峰的 Git 教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- [Git 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)
 
 ## 文档
 
