@@ -51,7 +51,7 @@
 
  环境/工具 | 简述
  -------- | --------
-[Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是 Android 开发工具的未来, 所以极力推荐 Android 开发人员使用这个工具, 该工具已更新到 2.0 预览版, 性能逐渐稳定提高, 没有之前那么卡了
+[Android Studio](http://developer.android.com/sdk/index.html) | 这个开发工具上手需要一定的时间, 自从 Google 推出1.0正式版, 这个工具一直火爆, 谷歌也不停更新维护, 性能逐渐稳定提高, 目前 github 上面的绝大多数开源项目都是使用 Android Studio 工具, 这就是开发 Android 必须掌握使用的工具, 如果还在使用 Eclipse 开发 Android 的童鞋们, 赶紧换成 AS 开发吧
 [Genymotion](https://www.genymotion.com/#!/download) | 强大好用高性能的 Android 模拟器, 自带的那个模拟器简直不忍直视, 启动超慢的, 跟这个没法比, 无论你是用 Eclipse 还是 Android Studio 里面都有 Genymotion 插件
 [jadx](https://github.com/skylot/jadx) | 一个 Android 反编译神器, 不同于常见的 [dex2jar](https://github.com/pxb1988/dex2jar), 这个反编译器生成代码的 try/catch 次数更少, View也不再是数字 id 了, 可读性更高
 [android-selector](https://github.com/importre/android-selector-intellij-plugin) | 可以根据指定颜色生成 Selector Drawable 的插件
@@ -272,6 +272,7 @@
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(TimLiu 总结的 Android 开源项目及库)
 - [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)
+- [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode)
 
 
 ## 知乎上的讨论
