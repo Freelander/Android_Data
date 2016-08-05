@@ -25,6 +25,7 @@
 - [开源库收集](#开源库收集)
 - [设计模式](#设计模式)
 - [实践篇](#实践篇)
+- [面试](#面试)
 - [Git 教程](#git-教程)
 - [文档](#文档)
 - [其它资料收集](#其它资料收集)
@@ -181,14 +182,12 @@
 - [Material-Animations](https://github.com/lgvalle/Material-Animations)
 - [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)
 
-
 ## Material Design 设计
 
 - [Material Design 教程](https://www.google.com/design/spec/material-design/introduction.html)
 - [Material Design 教程(中文版)](https://github.com/1sters/material_design_zh_2)
 - [Material Design Android Library ](https://github.com/navasmdc/MaterialDesignLibrary)(Material Design 开源库, 很多效果可以直接拿来用)
 - [十大Material Design开源项目](http://www.aplesson.com/?p=650)
-
 
 ## 素材
 
@@ -246,7 +245,15 @@
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
 - [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
 - [如何自学 Android](http://www.jianshu.com/p/28111d29eee4)
+
+## 面试
+
 - [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+- [LearningNotes](https://github.com/GeniusVJR/LearningNotes) (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
+- [80% 以上简历都是不合格的](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef4770)
+- [推荐两个技术简历模板](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f)
+- [Android 面试那些事儿](https://zhuanlan.zhihu.com/p/21565914)
+- [精益技术简历之道——改善技术简历的47条原则](http://lucida.me/blog/lean-technical-resume/)
 
 ## Git 教程
 
@@ -289,6 +296,7 @@
 - [Android有什么好的技术点适合进行技术分享?](https://www.zhihu.com/question/29939631)
 - [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
 - [Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?](https://www.zhihu.com/question/37433825)
+- [大家有哪些好的 Android 开发习惯?](https://www.zhihu.com/question/27227425)
 
 ## 贡献者
 
