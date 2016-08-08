@@ -8,7 +8,7 @@
 
  **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
->感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 与 [@Android 开发日常](http://weibo.com/AndroidDevDaily) 的大力支持
 
 ## 目录
 

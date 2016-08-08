@@ -4,7 +4,7 @@
 
 > iOS 版本的在此: https://github.com/Aufree/trip-to-iOS/blob/master/Top-100.md
 
->感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 的大力支持, 以及 [@stormzhang](https://github.com/stormzhang) 的指点
+>感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 与 [@Android 开发日常](http://weibo.com/AndroidDevDaily) 的大力支持, 以及 [@stormzhang](https://github.com/stormzhang) 的指点
 
 **若有任何疑问可通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
 
