@@ -254,6 +254,7 @@
 - [推荐两个技术简历模板](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f)
 - [Android 面试那些事儿](https://zhuanlan.zhihu.com/p/21565914)
 - [精益技术简历之道——改善技术简历的47条原则](http://lucida.me/blog/lean-technical-resume/)
+- [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
 
 ## Git 教程
 
