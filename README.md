@@ -281,8 +281,10 @@
 - [Android 开发收藏夹](https://github.com/ruijun/Android-Dev-Favorites)
 - [TimLiu-Android](https://github.com/Tim9Liu9/TimLiu-Android)(TimLiu 总结的 Android 开源项目及库)
 - [AndroidTips](https://github.com/JohnTsaiAndroid/AndroidTips)
-- [Android开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode)
-
+- [Android 开发人员不得不收集的代码](https://github.com/Blankj/AndroidUtilCode)
+- [Android 架构合集](https://github.com/Juude/Awesome-Android-Architecture)
+- [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
+- [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)
 
 ## 知乎上的讨论
 
@@ -299,6 +301,7 @@
 - [Android Studio有什么奇技淫巧?](https://www.zhihu.com/question/27482725)
 - [Android 开发: 开始一个项目前, 做好哪些准备可以事半功倍?](https://www.zhihu.com/question/37433825)
 - [大家有哪些好的 Android 开发习惯?](https://www.zhihu.com/question/27227425)
+- [Android 开发有什么好的架构么?](https://www.zhihu.com/question/21406685)
 
 ## 贡献者
 
