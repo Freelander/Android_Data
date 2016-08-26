@@ -245,6 +245,7 @@
 - [我的 Android 开发实战经验总结](http://www.jianshu.com/p/4f152bc8f4f3)
 - [Android Tips 系列](http://www.wangchenlong.org/2016/02/23/tips/1603/231-android-tips-1/)
 - [如何自学 Android](http://www.jianshu.com/p/28111d29eee4)
+- [你所不知道的Android Studio调试技巧](http://www.jianshu.com/p/011eb88f4e0d)
 
 ## 面试
 
