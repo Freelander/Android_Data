@@ -175,6 +175,7 @@
 - [awesome_materialdesign](https://github.com/lightSky/Awesome-MaterialDesign)
 - [awesome 系列之终极版](https://github.com/sindresorhus/awesome)
 - [android-dynamic-load-awesome](https://github.com/liaohuqiu/android-dynamic-load-awesome)
+- [awesome-adb](https://github.com/mzlogin/awesome-adb)
 
 ## 动画系列
 - [animate](https://github.com/hitherejoe/animate)
