@@ -196,10 +196,11 @@
 - [ColorHunt-色彩搭配](http://www.colorhunt.co/)
 - [在线 Material Design 界面调色板](http://www.materialpalette.com/)
 - [Material Design设计模板与素材](http://www.materialup.com/)
-- [App Icon 图标](https://icons8.com/)
+- [Icons8](https://icons8.com/)
 - [Icon Store](https://iconstore.co/)
 - [Material icons](https://design.google.com/icons/)
 - [Iconfont](http://iconfont.cn/)
+- [awesome-design](https://github.com/gztchan/awesome-design/)
 
 ## 开源库收集
 
