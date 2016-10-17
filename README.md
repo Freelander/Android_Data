@@ -219,6 +219,7 @@
 
 ## 实践篇
 
+- [Android Studio 小技巧合集](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
 - [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 - [Android 开发最佳实践 ](http://hukai.me/android-dev-patterns/)(来自[胡凯](http://hukai.me/)总结)
 - [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
