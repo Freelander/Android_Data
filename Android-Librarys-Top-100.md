@@ -1,3 +1,5 @@
+> 本人目前正在找工作, 具体工作经验以及个人经历请移步到我的[网页版简历](http://freelander.github.io/resume/), 希望能得到大家推荐, 谢谢!
+
 # GitHub Android Libraries Top 100 简介
 
 本项目主要对目前 GitHub 上排名前 100 的 Android 开源库进行简单的介绍, 至于排名完全是根据 GitHub 搜索 Java 语言选择 (Best Match) 得到的结果, 然后过滤了跟 Android 不相关的项目, 所以排名并不具备任何官方效力, 仅供参考学习, 方便初学者快速了解当前一些流行的 Android 开源库.
