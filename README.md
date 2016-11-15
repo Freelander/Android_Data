@@ -1,5 +1,3 @@
-> 本人目前正在找工作, 具体工作经验以及个人经历请移步到我的[网页版简历](http://freelander.github.io/resume/), 希望能得到大家推荐, 谢谢!
-
 # Android 学习资料收集                                                        
 
  收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该资料的开头描述
