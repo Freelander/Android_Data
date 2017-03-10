@@ -196,10 +196,11 @@
 - [ColorHunt-色彩搭配](http://www.colorhunt.co/)
 - [在线 Material Design 界面调色板](http://www.materialpalette.com/)
 - [Material Design设计模板与素材](http://www.materialup.com/)
-- [App Icon 图标](https://icons8.com/)
+- [Icons8](https://icons8.com/)
 - [Icon Store](https://iconstore.co/)
 - [Material icons](https://design.google.com/icons/)
 - [Iconfont](http://iconfont.cn/)
+- [awesome-design](https://github.com/gztchan/awesome-design/)
 
 ## 开源库收集
 
@@ -218,6 +219,7 @@
 
 ## 实践篇
 
+- [Android Studio 小技巧合集](http://jaeger.itscoder.com/android/2016/02/14/android-studio-tips.html)
 - [Android 开发最佳实践](https://github.com/futurice/android-best-practices/blob/master/translations/Chinese/README.cn.md)
 - [Android 开发最佳实践 ](http://hukai.me/android-dev-patterns/)(来自[胡凯](http://hukai.me/)总结)
 - [Android 最佳实践之 UI 篇](http://sr1.me/way-to-explore/2015/03/25/best-practice-for-android-ui.html)
@@ -250,10 +252,11 @@
 
 ## 面试
 
-- [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
-- [LearningNotes](https://github.com/GeniusVJR/LearningNotes) (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
 - [80% 以上简历都是不合格的](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef4770)
 - [推荐两个技术简历模板](http://j.codekk.com/blogs/detail/5705bcdf4a38205862ef476f)
+- [关于程序员求职简历](https://mdluo.github.io/blog/about-resume/)
+- [国内一线互联网公司内部面试题库](https://github.com/JackyAndroid/AndroidInterview-Q-A)
+- [LearningNotes](https://github.com/GeniusVJR/LearningNotes) (非常详细的面试资料, 涉及 Android, Java, 设计模式, 算法等)
 - [Android 面试那些事儿](https://zhuanlan.zhihu.com/p/21565914)
 - [精益技术简历之道——改善技术简历的47条原则](http://lucida.me/blog/lean-technical-resume/)
 - [史上最全 Android 面试资料集合](http://www.jianshu.com/p/d1efe2f31b6d)
@@ -287,6 +290,7 @@
 - [Android 架构合集](https://github.com/Juude/Awesome-Android-Architecture)
 - [AndroidArchitectureCollection](https://github.com/CameloeAnthony/AndroidArchitectureCollection)
 - [Android 开发中的日常积累](https://github.com/lizhangqu/CoreLink)
+- [2016安卓开发资料大全](http://blog.chengyunfeng.com/?p=1020)
 
 ## 知乎上的讨论
 
