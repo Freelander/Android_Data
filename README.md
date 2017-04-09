@@ -1,3 +1,11 @@
+<p align="center">
+  <b>Special thanks to the generous sponsorship by:</b>
+  <br><br>
+  <a href="https://www.yousails.com">
+    <img src="https://yousails.com/banners/brand.png" width=350>
+  </a>
+</p>
+
 # Android 学习资料收集                                                        
 
  收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该资料的开头描述
