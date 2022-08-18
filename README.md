@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Android 学习资料收集                                                        
+# Annnnnnnndroid 学习资料收集                                                        
 
  收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该资料的开头描述
 
