@@ -8,17 +8,21 @@
 
 # Android 学习资料收集                                                        
 
- 收集整理这份资料灵感来自于 [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), 征得同意引用了该资料的开头描述
+ This information was collected and inspired by [trip_to_iOS](https://github.com/Aufree/trip-to-iOS), The opening description of the material is cited with permission
 
- 收集整理这份资料主要帮助初学者学习 Android 开发, 希望能快速帮助到他们快速入门, 找到适合自己学习资料,   节省再去收集学习资料时间.
 
- 这份资料我会不断的更新完善, 同时也欢迎更多具有丰富经验的Android开发者将自己常用的工具、学习资料、学习心得等分享上来, 我将定期筛选合并, 该份学习资料有不足的地方, 也请指出, 我会谦虚接受改正, 希望我能与大家一起来学习, 谢谢.
+Collecting and sorting out this information is mainly to help beginners learn Android Development, I hope to help them get started quickly, find learning materials suitable for them, and save time to collect learning materials.
 
- **如果您有任何意见或建议也可以通过[邮件](mailto:huanggaojun13@gmail.com)或[微博](http://weibo.com/gaojunhuang)联系我**
+ I will continue to update and improve this information. At the same time, I also welcome more experienced Android developers to share their commonly used tools, learning materials, and learning experience. I will regularly screen and merge. There are insufficient learning materials. Place, please also point out, I will humbly accept the correction, I hope I can come and learn with you, thank you.
 
->感谢 [@GitHubDaily](http://weibo.com/GitHubDaily) 与 [@Android 开发日常](http://weibo.com/AndroidDevDaily) 的大力支持
 
-## 目录
+**If you have any comments or suggestions, you can also send them via [mail](mailto:huanggaojun13@gmail.com) or[Weibo](http://weibo.com/gaojunhuang) contact me**
+
+
+> Thanks to [@GitHubDaily](http://weibo.com/GitHubDaily) with [@AndroidDeveloperDaily](http://weibo.com/AndroidDevDaily) strong support from
+
+
+## Table of contents
 
 - [书籍](#书籍)
 - [开发环境/工具](#开发环境工具)
