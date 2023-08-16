@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> .
   <b>Special thanks to the generous sponsorship by:</b>
   <br><br>
   <a href="https://www.yousails.com">
